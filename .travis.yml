@@ -22,6 +22,7 @@ install:
 - npm install hexo --save
 script:
 - git submodule update --init --recursive
+- git clone https://github.com/theme-next/theme-next-algolia-instant-search themes/next/source/lib/algolia-instant-search
 - hexo clean --config source/_data/next.yml
 - hexo algolia --config source/_data/next.yml
 after_success:
