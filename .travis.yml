@@ -11,6 +11,8 @@ addons:
   ssh_known_hosts: 
     - git.coding.net
     - 118.25.166.124
+    - github.com
+    - 192.30.255.112
 before_install:
 - openssl aes-256-cbc -K $encrypted_3e10d11e4aff_key -iv $encrypted_3e10d11e4aff_iv
   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
