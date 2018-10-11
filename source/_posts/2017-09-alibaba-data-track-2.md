@@ -21,7 +21,7 @@ tags:
 
 用户回退行为的识别，也是比较棘手的，因为跟踪用户浏览行为的目的，主要是为了分析链路转化率，用来优化业务或分析活动效果等。而页面回退行为对这些行为分析是一种干扰。在下游数据分析过程中再识别这种行为往往很难，在采集端会有更充分的信息进行识别。但具体实现也并不是总能万无一失，而且有些特殊情况下，可能还需要保留这种回退行为的数据。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fj6icts2hpj314c0mqju8.jpg)
+<!-- ![](https://ws2.sinaimg.cn/large/006tNc79gy1fj6icts2hpj314c0mqju8.jpg) -->
 
 ### H5 和 native日志统一
 
@@ -35,7 +35,7 @@ H5越来越流行，Hybrid的应用越来越普及，用户并不关心你的页
 
 ### 日志处理链路
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fj6imc2ln8j314a0mq781.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fj6imc2ln8j314a0mq781.jpg) -->
 
 ### 日志分流
 
@@ -89,3 +89,5 @@ H5越来越流行，Hybrid的应用越来越普及，用户并不关心你的页
    * Aplus - WEB 采集
    * UserTrack - APP 采集
    * UTDID
+   
+文章中图片因版权原因移除，详细内容可以查看[《大数据之路》](https://book.douban.com/subject/27074564/)。

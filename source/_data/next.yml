@@ -593,23 +593,23 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
-  appid: cytklkKc0
-  appkey: prod_b1dd516bbb7f3198591656f99d9ace80
+  enable: false
+  appid: 
+  appkey: 
 
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
+  appid:  5K8cYFA5q6OIHRrnmIE1llQl-gzGzoHsz
+  appkey:  ftQl8eaK2nOr2Bh8tnb1fPTU
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-  verify: false # Verification code
-  placeholder: Just go go # comment box placeholder
-  avatar: mm # gravatar style
-  guest_info: nick,mail,link # custom comment header
+  verify: true # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! # comment box placeholder
+  avatar: mp # gravatar style
+  guest_info: nick,mail # custom comment header
   pageSize: 10 # pagination size
   visitor: false # leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors' for counter compatibility. Article reading statistic https://valine.js.org/visitor.html
 

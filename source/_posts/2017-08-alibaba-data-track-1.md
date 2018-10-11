@@ -12,7 +12,7 @@ tags:
 
 ## 流量产品整体介绍
 
-![流量产品整体介绍](https://ws3.sinaimg.cn/large/006tNc79gy1fixfcx5rlpj31120kue81.jpg)
+<!-- ![流量产品整体介绍](https://ws3.sinaimg.cn/large/006tNc79gy1fixfcx5rlpj31120kue81.jpg) -->
 
 > 闭环：无规范不分析，无分析不采集；采集必计算，计算必分析；
 
@@ -40,9 +40,9 @@ tags:
 
 阿里的SPM位置编码由A.B.C.D四段构成， 各分段分别代表 A:站点/业务， B:页面， C:页面区块， D:区块内点位. 如下图所示：
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fixk59b6q3j31fo0qi76o.jpg)
+<!-- ![](https://ws4.sinaimg.cn/large/006tNc79gy1fixk59b6q3j31fo0qi76o.jpg) -->
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fixkcfexagj31aa0ns77e.jpg)
+<!-- ![](https://ws1.sinaimg.cn/large/006tNc79gy1fixkcfexagj31aa0ns77e.jpg) -->
 
 #### SCM(Super Content Model)全称超级内容模型。
 
@@ -61,13 +61,13 @@ SCM编码也采用a.b.c.d的格式，其中，一般来说，
 
 > 用户在页面上某个行为触发一个异步请求，按照约定的格式向日志服务器发送请求，展现、点击、等待、报错等等都可以作为交互行为。
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fixkggxrv0j31es0q641p.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fixkggxrv0j31es0q641p.jpg) -->
 
 ## 数据采集
 
 ### 整体设计
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlkswq4mj31120kuaff.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlkswq4mj31120kuaff.jpg) -->
 
 采集主要分为客户端埋点，插件/封装，服务端部署。
 
@@ -77,7 +77,7 @@ SCM编码也采用a.b.c.d的格式，其中，一般来说，
 
 ### Aplus - WEB 采集
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fixl70hh9fj31gi0ran30.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fixl70hh9fj31gi0ran30.jpg) -->
 
 采集内容包括：
 
@@ -97,17 +97,17 @@ UserTrack 将采集以下数据
 * 采集APP信息(应用、版本、渠道......)
 * 采集用户行为(会员、登陆、注册、页面浏览、控件点击......)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlgm3wr5j30xs0rg779.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlgm3wr5j30xs0rg779.jpg) -->
 
 > UserTrack 会为每种业务事件分配一个事件ID(event_id)，通过event_id来区分每条日志的业务含义，例如常见的页面事件(event_id=2001)、控件事件(event_id=2101)等。开发人员可以根据不同的业务场景调用不同的API埋点，为不同的业务事件提供不同的业务参数。
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlir1xndj30mk0ngta6.jpg)
+<!-- ![](https://ws3.sinaimg.cn/large/006tNc79gy1fixlir1xndj30mk0ngta6.jpg) -->
 
 ### UTDID
 
 UTDID 表示唯一用户，该id可以在不同的产品中通用。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fixlvo5wr8j30ry02oq38.jpg)
+<!-- ![](https://ws2.sinaimg.cn/large/006tNc79gy1fixlvo5wr8j30ry02oq38.jpg) -->
 
 ## Next
 
@@ -127,3 +127,5 @@ UTDID 表示唯一用户，该id可以在不同的产品中通用。
 * 埋码测试
   * 本地测试
   * 灰度版本测试
+
+文章中图片因版权原因移除，详细内容可以查看[《大数据之路》](https://book.douban.com/subject/27074564/)。
