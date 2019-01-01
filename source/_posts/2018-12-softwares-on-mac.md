@@ -18,12 +18,12 @@ tags:
 ### 软件
 
 ```
-    brew cask install evernote // 印象笔记
+    brew cask install evernote   // 印象笔记
     mas lucky lastpass           // 密码管理
     brew cask install google-chrome // 浏览器
     brew cask install baidunetdisk  // 百度网盘
-    brew cask install thunder // 迅雷
-    brew search cleanmymac      // MAC清理工具
+    brew cask install thunder       // 迅雷
+    brew search cleanmymac          // MAC清理工具
     Microsoft Excel
     Microsoft PowerPoint
     Microsoft Word 
@@ -32,10 +32,10 @@ tags:
 ### 工具
 
 ```
-    brew cask install alfred     // 快速启动，配合插件使用
+    brew cask install alfred       // 快速启动，配合插件使用
     brew cask install bartender2   // 隐藏任务栏的工具
-    brew cask install moom       // 窗口管理工具
-    brew cask install  ghosttile   // 隐藏Dock App
+    brew cask install moom         // 窗口管理工具
+    brew cask install ghosttile    // 隐藏Dock App
 ```
 
 ### 合作
@@ -62,8 +62,8 @@ tags:
 ### 娱乐
 
 ```
-    brew cask install iina     // 视频播放
-    brew cask install neteasemusic // 网易云音乐
+    brew cask install iina          // 视频播放
+    brew cask install neteasemusic  // 网易云音乐
     人人影视
 ```
 
