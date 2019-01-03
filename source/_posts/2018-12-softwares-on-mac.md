@@ -6,9 +6,11 @@ date: 2018-12-25 00:03:33
 tags:
 ---
 
+由于公司的电脑硬盘换了，索性就把电脑格式化了重新安装系统。以下是我这次安装的软件，基本上可以满足日常的基本使用。如果还有需要安装的软件就之后在补充了。
+
 ### 安装 brew & cask & mas
 
-```
+```bash
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
     
     brew tap caskroom/cask
@@ -17,7 +19,7 @@ tags:
 
 ### 软件
 
-```
+```bash
     brew cask install evernote   // 印象笔记
     mas lucky lastpass           // 密码管理
     brew cask install google-chrome // 浏览器
@@ -31,7 +33,7 @@ tags:
 
 ### 工具
 
-```
+```bash
     brew cask install alfred       // 快速启动，配合插件使用
     brew cask install bartender2   // 隐藏任务栏的工具
     brew cask install moom         // 窗口管理工具
@@ -40,7 +42,7 @@ tags:
 
 ### 合作
 
-```
+```bash
     mas lucky qq                    // QQ
     mas lucky wechat                // 微信
     brew search bearychat
@@ -50,7 +52,7 @@ tags:
 
 ### 产品
 
-```
+```bash
     brew search axure-pr
     brew search sketch
     brew search mindnode
@@ -61,7 +63,7 @@ tags:
 
 ### 娱乐
 
-```
+```bash
     brew cask install iina          // 视频播放
     brew cask install neteasemusic  // 网易云音乐
     人人影视
@@ -69,7 +71,7 @@ tags:
 
 ### 开发
 
-```
+```bash
     ShadowsocksX // https://github.com/shadowsocks/ShadowsocksX-NG/releases
     mas lucky Xcode
     Proxifier // Socks5客户端
