@@ -8,6 +8,10 @@ tags:
 
 由于公司的电脑硬盘换了，索性就把电脑格式化了重新安装系统。以下是我这次安装的软件，基本上可以满足日常的基本使用。如果还有需要安装的软件就之后在补充了。
 
+由于我的日常主要设计开发和产品的工作，所有在软件上也主要是这两块。
+
+<!--more-->
+
 ### 安装 brew & cask & mas
 
 ```bash
@@ -53,12 +57,15 @@ tags:
 ### 产品
 
 ```bash
-    brew search axure-pr
-    brew search sketch
-    brew search mindnode
-    brew search zeplin
-    brew search macdown
-    brew search rightfont   
+    brew cask install axure-pr
+    brew cask install sketch
+    brew cask install mindnode
+    brew cask install zeplin
+    brew cask install macdown
+    brew cask install rightfont 
+    brew cask install notion
+    幕布
+    mas lucky ipic   
 ```
 
 ### 娱乐

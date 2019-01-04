@@ -13,7 +13,7 @@ tags:
 
 12.20 日，扎克伯格在 Facebook 的 blog 上发布文章，说自己已经搞定了，一共用了大概 100 个小时。这个 AI 可以在手机或者电脑上可以控制我的家，包括灯光，温度，电器，音乐以及安全措施，打开放家里的家用电器，根据口味推荐菜单，家庭安全如让熟人进门，控制汽车开关门之类的。Jarvis 使用文字和语音来交互。
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=h0357duwe71&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" src="https://v.qq.com/iframe/player.html?vid=h0357duwe71&tiny=0&auto=0" allowfullscreen></iframe>
 
 它将会学习新的词汇和概念，甚至可以招待主人。 它使用几种人工智能技术，包括自然语言处理，语音识别，面部识别和强化学习等等。
 

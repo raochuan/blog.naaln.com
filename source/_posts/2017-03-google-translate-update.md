@@ -16,7 +16,7 @@ tags:
 根据刚刚大家的反馈，看来在不科学上网的情况下也是可以正常使用的 🤔 Google 也特意制作了一个标题为「100 秒了解升级版 Google 翻译」的视频，全部为普通话配音，为中国用户介绍这款应用。
 
 <div class="video-container">
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=t0388x0ewwj&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" src="https://v.qq.com/iframe/player.html?vid=t0388x0ewwj&tiny=0&auto=0" allowfullscreen></iframe>
 </div>
 
 ### 32 种语言即时语音互译
