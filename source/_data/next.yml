@@ -329,7 +329,7 @@ avatar:
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: //tva2.sinaimg.cn/crop.0.0.998.998.180/48910e01gw1ef5p6etuzdj20rs0rs771.jpg
+  url: //pics.naaln.com/48910e01gw1ef5p6etuzdj20rs0rs771.jpg
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -437,13 +437,13 @@ codeblock:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: //ws1.sinaimg.cn/large/006tKfTcgy1fg8gpi7kaaj30by0by74i.jpg
+  qcode: //pics.naaln.com/006tKfTcgy1fg8gpi7kaaj30by0by74i.jpg
   description: 记录生活，研究产品，分享设计，分析数据，讨论科技和商业，不定期扯淡。
 
 # Reward
 reward_comment: 如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
-wechatpay: //ws1.sinaimg.cn/mw690/006tNc79gy1fm7yqrau7mj30f00ezad5.jpg
-alipay: //ww3.sinaimg.cn/mw690/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
+wechatpay: //pics.naaln.com/48910e01gw1evkbf70jcgj20cg0cidh5.jpg
+alipay: //pics.naaln.com/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
 #bitcoin: /images/bitcoin.png
 
 # Related popular posts
