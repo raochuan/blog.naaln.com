@@ -35,7 +35,7 @@ tags:
 
 建立一个公司最终还是要卖产品的嘛。造成公司失败的原因往往是销售上的失败而不一定是产品的失败哦。我们来看看男神的销售总结。
 
-![](https://ww4.sinaimg.cn/large/006tNbRwly1fdc7h6mcyxj30go058dg6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032130.jpg)
 
 **病毒销售**：这类价格在一美金以下的产品鼓励用户去邀请更多用户加入，Facebook，Paypal 都是靠这种方式成长的。Paypal 最开始只有 24 名用户，而且他们都是 Paypal 的员工。Paypal 为了发展用户给每位新用户和邀请用户的人一定奖金，以这种方式达到了 7% 日增长率。
 
@@ -74,19 +74,19 @@ tags:
 
 可能性 1：周期性的繁荣和被摧毁
 
-![](https://ww4.sinaimg.cn/large/006tNbRwly1fdc7k0unquj30go0au0t0.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32131.jpg)
 
 可能性 2：走向平台期
 
-![](https://ww2.sinaimg.cn/large/006tNbRwly1fdc7k97xuqj30go0awaa7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032131.jpg)
 
 可能性 3：走向毁灭
 
-![](https://ww1.sinaimg.cn/large/006tNbRwly1fdc7kgte0ij30go0amglt.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032133.jpg)
 
 可能性 4：走向腾飞
 
-![](https://ww2.sinaimg.cn/large/006tNbRwly1fdc7km5y7nj30go0auwen.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32134.jpg)
 
 各位看官，你觉得这个世界的未来会怎样呢？Peter Thiel 认为周期性的繁荣与黑暗不太可能。人类文明发展到现在的程度，我们已经拥有的极具破坏力的武器。我们一旦开始走向黑暗估计就没有恢复的可能，而如果人类走向灭绝的话我们也没有什么可需要考虑的未来了。Peter Thiel 认为走向平台期同样不太可能。平台期假设认为现在比较贫穷的国家会慢慢赶上富裕的国家然后全球一起走向一个经济的平台期。可是这种平台期的状态是不可持续的，世界的稀缺资源会面临激烈的竞争，最终产生极大的冲突而导致毁灭。这样的话我们需要准备好面对的就只有第四种情况了，那就是加速发展而腾飞的未来！
 

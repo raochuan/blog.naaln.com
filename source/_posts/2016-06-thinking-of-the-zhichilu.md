@@ -8,7 +8,7 @@ tags:
 
 一方面为软件可以上架而开心，另一方面软件的幼稚感令我十分的担忧。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq9hxqxwj30jz0zkju7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-60812.jpg)
 
 从产品角度谈谈，自己觉得还有一下一些问题
 

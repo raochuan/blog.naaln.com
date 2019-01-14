@@ -13,19 +13,19 @@ tags:
 
 比如我朋友圈有一张这要的图片
 
-![](https://ww3.sinaimg.cn/large/65e4f1e6gw1fahq76og7ij20ku11277j.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060957.gif)
 
 除了发红包，我们还可以下载一个抓包软件，就像 `Replica` 之类的，配置完成后刷新一下朋友圈就会自动抓包，（意思就是把所有朋友圈的图片都抓下来，不管要不要红包的）。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq79r4jmj30ku112451.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061008.jpg)
 
 在 `Response` 页面即可查看所有朋友发的红包隐藏照片的信息。
 
-![](https://ww3.sinaimg.cn/large/65e4f1e6gw1fahq7cy9bsj20ku112ae3.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061009.jpg)
 
 点击image viewer，可以看到图片
 
-![](https://ww3.sinaimg.cn/large/65e4f1e6gw1fahq7f33tlj20ku11279x.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060958.gif)
 
 这什么鬼，还来骗红包，走开。
 

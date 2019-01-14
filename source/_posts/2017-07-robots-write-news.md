@@ -62,7 +62,7 @@ tags:
 
 这是自媒体会比传统媒体更加适合机器人的原因。
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fhf6x09hevj30b408caak.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032000.jpg)
 
 ## 未来展望
 

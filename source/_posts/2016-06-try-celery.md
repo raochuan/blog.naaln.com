@@ -18,7 +18,7 @@ categories:
 4. [其他](http://docs.jinkan.org/docs/celery/getting-started/first-steps-with-celery.html#id5) 除了上面列出的之外，还有其他的实验性传输实现可供选择，包括 Amazon SQS 、 Using MongoDB 和 IronMQ 。
 5. 中间人概览
 
-![](https://ww1.sinaimg.cn/large/006y8lVagw1fahq9m9f1uj30eu09sq4f.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060754.jpg)
 
 ### 安装 Celery
 
@@ -32,7 +32,7 @@ $ pip install celery
 
 所以我的解决方案是异步处理，用户先提交信息，我在报告创建完成后进行发送。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq9o4342j30l20dswg9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060755.jpg)
 
 ### 例子
 
@@ -60,7 +60,7 @@ def starcase(info):
 
 第三个终端，运行脚本 `python tasks.py`
 
-![](https://ww4.sinaimg.cn/large/48910e01gw1f5bee8zhajj20is0butbc.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060756.jpg)
 
 可以看到 接受到了一个`4A9D2A83-E273-40CB-***` 的任务，并在8.2秒后执行完成，返回的结果是 10040。
 

@@ -27,11 +27,11 @@ tags:
 
 再后来，彩色的手机流行了，emojis 的表情红遍大江南北，开始出现下面的短信了
 
-![](https://ww1.sinaimg.cn/mw690/006tNbRwgy1fc3hholcooj30e20p0tai.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032226.jpg)
 
 但是微信流行之后，我们现在怎么拜年呢？
 
-![](https://ww3.sinaimg.cn/large/006tNbRwgy1fc3hdxscbnj30jz08qdkg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032227.jpg)
 
 ---
 
@@ -43,27 +43,27 @@ tags:
 
 * 向微信朋友发送**带有你的昵称的拜年表情包**，这种表情才好玩呢：
 
-![](https://ww4.sinaimg.cn/mw690/006tNc79gy1fc3hwt32ucg306u078diz.gif) ![](https://ww1.sinaimg.cn/mw690/48910e01gy1fc3hyw0a4yg206s08642l.gif) ![](https://ww4.sinaimg.cn/mw690/006tNc79gy1fc3i48nuaeg306u07qwfy.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032228.gif) ![](http://pics.naaln.com/blog/2019-01-14-032230.gif) ![](http://pics.naaln.com/blog/2019-01-14-32231.gif)
 
 现在一共有三种定制模式 「新春快乐」，「讨红包」，「谢谢老板」，快来试一试吧
 
 在微信搜索框中分别搜索**【新春快乐】【讨红包】【谢谢老板】**实现定制，流程参考下图。 
 
-![](https://ww3.sinaimg.cn/large/006tNc79gy1fc3ifp6t0ig30go0tnds5.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032231.gif)
 
 ### 定制二号：表情包 x 祝XX新春快乐
 
 * 向你的老板发送**带姓名的拜年表情包**，满满的诚意啊：
 
-![](https://ww4.sinaimg.cn/mw690/006tNc79gy1fc3i9lvy63g306007wmxw.gif) ![](https://ww2.sinaimg.cn/mw690/006tNc79gy1fc3icuxyymg306m082abq.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032232.gif) ![](http://pics.naaln.com/blog/2019-01-14-032233.gif)
 
 在微信搜索框中分别搜索**【祝XX新春快乐】【谢谢XX老板】**实现定制，流程参考下图。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gy1fc3igalexbg30go0tnn63.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032234.gif)
 
 当然还有更多的方法等你发现，比如这种。你知道这种怎么发的吗？
 
-![](https://ww2.sinaimg.cn/large/006tNc79gy1fc3k3j96ucg307k06odh0.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032235.gif)
 
 给你一点提示：
 

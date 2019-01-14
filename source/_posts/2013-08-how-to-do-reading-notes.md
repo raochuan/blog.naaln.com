@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd0mdw87yj30hs0gnmxe.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-062421.jpg)
 
 你知道的，中国老话说，好记性不如烂笔头。其实，我自己对这句话的理解经历了三个阶段。
 

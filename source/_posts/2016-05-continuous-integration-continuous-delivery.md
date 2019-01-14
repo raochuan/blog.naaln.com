@@ -25,7 +25,7 @@ tags:
 
 > - 规范化上线部署流程和配置规范
 
-![](https://ww3.sinaimg.cn/large/006y8lVagw1fahq8b473ij31f80jcjw4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060819.jpg)
 
 我计划的流程如下
 
@@ -45,7 +45,7 @@ tags:
 
 后来发现`Rundeck`和`Jenkins`的集成并不是很稳定，决定尝试`CircleCI` 持续整合＆持续交付工具。
 
-![](https://ww4.sinaimg.cn/large/48910e01gw1f3zf4wl46qj20g10dw75i.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060820.jpg)
 
 - `CI`和接入版本控制
 

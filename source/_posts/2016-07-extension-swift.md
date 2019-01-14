@@ -76,7 +76,7 @@ func clicked(sender: UIButton) {
 }
 ```
 
-![](https://ww1.sinaimg.cn/large/006tNc79gy1fcbm9b3up6j30ku112whe.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032431.jpg)
 
 大概就是右上角的效果，呃，静态图看不出来，各位要是有兴趣可以拿我的扩展方法然后自己初始化个Button去跑跑看(直接`sender.animateWhenClicked()`就好，不用`superview)`。因为我在项目中的Button是一个自定义的贪婪Button，只要点击Button的父视图就会响应点击事件,所以是Button的superview调用了animateWhenClicked，这也是我把这个动画扩展到UIView而不是UIButton的原因。
 

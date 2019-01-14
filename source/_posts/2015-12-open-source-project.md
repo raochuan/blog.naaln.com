@@ -9,7 +9,7 @@ tags:
 
 Popcorn Time 是一个很火爆的开源电影播放器，无需完全下载就可以直接播放 yts 里的高清电影，并且能够加载外挂字幕文件。
 
-![](https://github.com/liszd/Popcorn-Time-Desktop/blob/master/EoO0bc0.gif?raw=true)
+![](http://pics.naaln.com/blog/2019-01-14-060956.gif)
 
 Popcorn Time真是一个神奇的视频流服务应用，它不仅可以像Netflix一样轻轻松松地制作BT种子，而且里面的内容还越来越丰富，也没有讨厌的按月支付的规定。直观的用户界面赢得了广泛赞扬，但因版权问题自诞生之日起就风波不断。Popcorn Time的核心开发成员做出决定宣布终止PopcornTime.io项目，目前该网站已经关闭。
 

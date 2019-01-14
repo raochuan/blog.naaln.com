@@ -19,9 +19,9 @@ XXX has conflicting provisioning settings. XXX is automatically provisioned, but
 
 用Xcode8打开工程后，比较明显的就是下图了，这个是苹果的新特性，可以帮助我们自动管理证书。建议大家勾选这个Automatically manage signing
 
-![](https://ww4.sinaimg.cn/large/006y8lVagw1fahqbtd407j30tt0hctar.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32501.jpg)
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahqbu80hzj30tt0hctar.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032503.jpg)
 
 解决办法是：大家在Xcode的偏好设置中，添加苹果账号，即可。
 

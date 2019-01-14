@@ -158,7 +158,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 
 然后我们可以去 Docker Hub 上查看，
 
-![](https://ww1.sinaimg.cn/large/48910e01gw1f41mnprjovj21kw0lwadx.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060809.jpg)
 
 ----------
 

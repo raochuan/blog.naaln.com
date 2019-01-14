@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1f512c5d7mej30dw0990up)
+![](http://pics.naaln.com/blog/2019-01-14-064532.jpg)
 
 子墨：这世界，除非你同意，任何人都不可能伤害到你。我坦荡，我快乐，日月可以明鉴。心里的阳光，是要自己掌灯的。
 
@@ -91,4 +91,4 @@ tags:
 
 说不定我来这座城市，是为了遇见你，而我遇见你的意义，只是与你告别。（文/卢思浩）
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpm3mjm7j30dw094t9e.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064533.jpg)

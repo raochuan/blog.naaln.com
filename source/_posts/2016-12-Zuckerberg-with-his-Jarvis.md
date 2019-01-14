@@ -7,7 +7,7 @@ tags:
 - AI
 ---
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fazzqg0hc6j30hs0a0t95.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032339.jpg)
 
 从2009年开始，扎克伯格都会为自己制定新年目标，比如「每天戴领带上班」、「学汉语」、「每两周阅读一本书」等。2015年，扎克伯格发布了他2016年的两个新年计划，挑战跑完365英里，开发类似于电影《钢铁侠》中的人工智能助手Jarvis，协助他控制家庭环境。
 
@@ -19,7 +19,7 @@ tags:
 
 在Facebook上，他简单介绍了自己的开发过程，并说了一下自己对人工智能的看法。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fazzqgvvx4j30go06bwel.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032340.jpg)
 
 简单的说一下构建人工智能的过程
 

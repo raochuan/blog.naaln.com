@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahpm45lmgj30b40biwfn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064531.jpg)
 
 ##第一部分：互联网仍呈现增长趋势
 

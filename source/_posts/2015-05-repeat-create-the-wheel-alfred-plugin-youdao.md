@@ -34,21 +34,21 @@ tags:
 
 #### 英译中
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq5j85trg313p0kbqhn.gif)
+![](http://pics.naaln.com/blog/2019-01-14-061044.gif)
 
 #### 英译中
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq5md01rg313p0kbk6q.gif)
+![](http://pics.naaln.com/blog/2019-01-14-061046.gif)
 
 #### 翻译短语
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq5uie7gg313p0kbqhn.gif)
+![](http://pics.naaln.com/blog/2019-01-14-061047.gif)
 
 #### 打开有道翻译页面 - 按`Ctrl+回车`
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq61dizwg313p0kbqhn.gif)
+![](http://pics.naaln.com/blog/2019-01-14-061049.gif)
 
 #### 直接在打出翻译结果 - 按`Command+回车`
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq62mwz0g313p0kbqhn.gif)
+![](http://pics.naaln.com/blog/2019-01-14-061050.gif)
 

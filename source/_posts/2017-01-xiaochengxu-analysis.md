@@ -15,7 +15,7 @@ tags:
 
 ## 最喜欢用的名字
 
-![](https://ww1.sinaimg.cn/large/006y8lVagw1fbmoo3xzxaj31d40sqafi.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032054.jpg)
 
 小程序应的最多的名字是 `xx助手`，`计算器`，`汇率`。
 
@@ -23,7 +23,7 @@ tags:
 
 ## 最多的分类
 
-![](https://ww4.sinaimg.cn/large/006y8lVagw1fbmomyevm4j31b80sidkq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032055.jpg)
 
 工具类的小程序最多，接下来是生活服务，还有富媒体。
 
@@ -31,7 +31,7 @@ tags:
 
 ## 最多的描述分析
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbmop66fl8j31kw14iqti.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032057.jpg)
 
 根据400个小程序的描述分析，`程序`，`提供`，`服务`，`信息`，`查询`，`工具`，`生活` 可以很好的描述这批小程序的具体功能。连成一句话 `提供信息程序生活服务的工具类程序`。
 
@@ -41,40 +41,40 @@ tags:
 
 ### 1. 出行
 
-![](https://ww4.sinaimg.cn/large/006y8lVagw1fbn5wwnxz7j30u01pxgqh.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32058.jpg)
 
 ### 2. 美食
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbn5xuibb0j30u01qmdkn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032058.jpg)
 
 ### 3. 金融
 
-![](https://ww3.sinaimg.cn/large/006y8lVagw1fbn5yprqu5j30u01qcwjg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032100.jpg)
 
 ### 4. 工具
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbn5yus2abj30u01q5q7c.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32101.jpg)
 
 ### 5. 效率
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbn5z6lko9j30u01q5gpv.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032101.jpg)
 
 ### 6. 教育
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbn5zexfx4j30u01powit.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032103.jpg)
 
 ### 7. 生活
 
-![](https://ww2.sinaimg.cn/large/006y8lVagw1fbn5zood35j30u01q3n1g.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32104.jpg)
 
 ### 8. 休闲
 
-![](https://ww1.sinaimg.cn/large/006y8lVagw1fbn5zw5lrwj30u01qmdk8.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032105.jpg)
 
 ### 9. 资讯
 
-![](https://ww3.sinaimg.cn/large/006y8lVagw1fbn60a25pxj30u01pun1j.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032106.jpg)
 
 ### 10. 购物
 
-![](https://ww1.sinaimg.cn/large/006y8lVagw1fbn60ka8x1j30u01qbtdn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032107.jpg)

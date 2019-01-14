@@ -13,9 +13,9 @@ tags:
 
 ### 微博
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fmhrkqzj6uj30dw0afweu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031905.jpg)
 
-比如这个图片的链接是 [](https://ws2.sinaimg.cn/large/006tNc79gy1fmhrkqzj6uj30dw0afweu.jpg)
+比如这个图片的链接是 [](http://pics.naaln.com/blog/2019-01-14-031905.jpg)
 
 提取图片末尾 `006tNc79gy1fmhrkqzj6uj30dw0afweu` 的前 6 位，如 `006tNc`，用62进制转换得到 `5937035379` 就是发图片人的微博账号。
 

@@ -10,7 +10,7 @@ tags:
 
 中和看锤子手机的亮点，会发现锤子公司和语音脱离不了关系。他主导了很多产品，比如快速搜索，闪念胶囊，TNT，锤子短信等都是语音交互的逻辑。有的产品昙花一现，有的产品确实给使用带来了众多的便利。直到 iOS12 发布后，系统中多了一个 Siri shortcut 的功能。
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fvgfv3n2lqg30af0ijnfs.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031636.gif)
 
 *这个是我创建了一个命令 「今日文章」唤起 [「日课」](https://itunes.apple.com/cn/app/id1193102860)。*
 

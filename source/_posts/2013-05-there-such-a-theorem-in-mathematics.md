@@ -11,7 +11,7 @@ tags:
 
 **喝醉的小鸟** 
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpm6lsz9j30dw08u3yr.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064526.jpg)
 
 **定理：喝醉的酒鬼总能找到回家的路，喝醉的小鸟则可能永远也回不了家。** 
 
@@ -19,7 +19,7 @@ tags:
 
 **“你在这里”** 
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahpm95n7gj30dw0ajmyt.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064527.jpg)
 
 **定理：把一张当地的地图平铺在地上，则总能在地图上找到一点，这个点下面的地上的点正好就是它在地图上所表示的位置。** 
 
@@ -27,7 +27,7 @@ tags:
 
 **不能抚平的毛球** 
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1f5127yhdj9j30dw0dwq48.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064528.jpg)
 
 **定理：你永远不能理顺椰子上的毛。** 
 
@@ -35,7 +35,7 @@ tags:
 
 **气候完全相同的另一端** 
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpmdilnnj30dw0dfq5i.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064529.jpg)
 
 **定理：在任意时刻，地球上总存在对称的两点，他们的温度和大气压的值正好都相同。** 
 
@@ -43,7 +43,7 @@ tags:
 
 **平分火腿三明治** 
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpmfghjwj30dw0933zk.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-64530.jpg)
 
 **定理：任意给定一个火腿三明治，总有一刀能把它切开，使得火腿、奶酪和面包片恰好都被分成两等份。** 
 

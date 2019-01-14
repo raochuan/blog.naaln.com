@@ -6,7 +6,7 @@ categories:
 tags: 
 ---
 
-![](https://ws2.sinaimg.cn/large/006tNc79ly1fyusfl1kwtj316r0u01ba.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031639.jpg)
 
 *题图：Calendar / @pexels*
 
@@ -81,6 +81,6 @@ tags:
 
 我把它做成思维导图了，建议保存至本地，随时查看，遇到问题可以按照这个流程来自查。
 
-![](https://ws3.sinaimg.cn/large/006tNc79ly1fyujwvlutcj30zn0ocn2m.jpg)  
+![](http://pics.naaln.com/blog/2019-01-14-031641.jpg)  
 
 [点击查看思维导图](https://mubu.com/doc/explore/18272)

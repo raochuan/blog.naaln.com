@@ -8,7 +8,7 @@ categories:
 
 不知道SAE的价格是怎么算的，反正最近就是这么逗不够用。连续冲了3次钱了，上星期又被停了。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1f514wlbznuj30vf03ct96.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032534.jpg)
 
 其中我的博客每月最少要花50元钱，它提示我的博客的访问量已经上了50万，我知道这事根本不可能的事情。
 

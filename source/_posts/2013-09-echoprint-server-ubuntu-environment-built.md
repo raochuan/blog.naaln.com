@@ -43,7 +43,7 @@ tags:
 
 下载如图：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpzk5zkuj30ey0bawgn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-062428.jpg)
 
 建立一个java目录，`sudo mkdir /usr/local/java`
 
@@ -61,7 +61,7 @@ tags:
 
 修改环境变量如下图：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpzlrc51j30d607udgu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-062429.jpg)
 
 图上是jdk1.6.0_30，要改成jdk1.6.0_43。
 
@@ -77,7 +77,7 @@ tags:
 
 这样就成功了，用vim写一个HelloWorld.java文件试一试：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpzn5mqoj30bx03nwep.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-062431.jpg)
 
 然后sudo javac HelloWorld.java
 

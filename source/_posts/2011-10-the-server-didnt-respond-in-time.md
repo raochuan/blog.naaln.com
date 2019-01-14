@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](http://m1.img.srcdd.com/farm2/172/5DBF139516741BF9B4353638F7A5C6AC_1_1.GIF)![](http://m1.img.srcdd.com/farm2/172/5DBF139516741BF9B4353638F7A5C6AC_1_1.GIF) 
+![](http://pics.naaln.com/blog/2019-01-14-091846.jpg)![](http://pics.naaln.com/blog/2019-01-14-091846.jpg) 
 
 “我们的一生会遇到八百二十六万三千五百六十三人。 
 
@@ -27,7 +27,7 @@ tags:
 
 后来他闭着眼睛在钢琴前坐了一个小时。。。 
 
-![](http://m2.img.srcdd.com/farm3/d/2012/0422/22/0F6A0A19585B1B7EDA888B4F8A8168A3_B500_900_400_384.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091848.jpg) 
 
 ==================================== 
 
@@ -37,7 +37,7 @@ tags:
 
 后来他差点把钢琴给拆了。。 
 
-![](http://m1.img.srcdd.com/farm3/d/2012/0422/22/87D8D03919E29E3B599CD9926654A2CE_B500_900_400_498.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091850.jpg) 
 
 =================================== 
 
@@ -57,7 +57,7 @@ tags:
 
 人生总是矛盾的。 
 
-![](http://m1.img.srcdd.com/farm3/d/2012/0422/22/804A02958745D8F0E341FA0FCCDC595A_B500_900_500_480.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091851.jpg) 
 
 ============================================= 
 
@@ -79,7 +79,7 @@ tags:
 
 有些简单的幸福是不是我们想象太复杂？ 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/E2F3555AD19F9CB8F5A452BAA37366DD_B500_900_500_677.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091853.jpg) 
 
 阿狸公仔的梦 
 
@@ -139,7 +139,7 @@ tags:
 
 大熊：。。。。。。 
 
-![](http://m2.img.srcdd.com/farm3/d/2012/0422/22/C05FACA144B2A312BC64189986DEB2DD_B500_900_425_299.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091854.jpg) 
 
 ====================================== 
 
@@ -147,7 +147,7 @@ tags:
 
 “我好像看到突然一块红色的东西迅速通过我车前。。是我的错觉么？？”经常有司机这样说。。。 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/5FD467CB27D82583733C98D35D3F99DC_B500_900_425_299.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091855.jpg) 
 
 远方 
 
@@ -173,7 +173,7 @@ tags:
 
 而到不了的地方，才是远方... 
 
-![](http://m1.img.srcdd.com/farm3/d/2012/0422/22/ED0D92FDE17528A18F040F4DDDECD503_B500_900_500_375.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091857.jpg) 
 
 漂流瓶 
 
@@ -237,7 +237,7 @@ tags:
 
 嗯，有人能听懂吗。。。 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/5C2ED9BBD77BBAAABD6E8A5A89C8C788_B500_900_500_707.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091858.jpg) 
 
 礼拜日 
 
@@ -263,7 +263,7 @@ friday和saturday。
 
 然后坐在沙发上，看着院子晾着的内裤晒干的日子。 
 
-![](http://m1.img.srcdd.com/farm3/d/2012/0422/22/9035B27235562CE08A2335A00E05355F_B500_900_500_521.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091859.jpg) 
 
 世界 
 
@@ -287,7 +287,7 @@ friday和saturday。
 
 想到这里，阿狸忽然很想哭。 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/0D6AD2972B0699B75A34F68FF396FDC8_B500_900_500_334.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091901.jpg) 
 
 时光的故事 
 
@@ -353,11 +353,11 @@ friday和saturday。
 
 听起来好像“woaini” 
 
-![](http://m2.img.srcdd.com/farm3/d/2012/0422/22/86BC51DAD2F053AB8085C3613C6044B3_B500_900_302_349.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091902.jpg) 
 
 生日快乐 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/6BC0B79FEB9D556CA8029F4AA95C0BC4_B500_900_370_800.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091903.jpg) 
 
 ======================= 
 
@@ -385,7 +385,7 @@ friday和saturday。
 
 然后可爱的微笑。 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/CA81F8FB6A52A87F4A6361A63CA59D87_B500_900_500_328.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091904.jpg) 
 
 阿狸说，他经常在在看桃子的时候，心里仍然还在想念着桃子。他说，也许这就是爱情吧。 
 
@@ -417,7 +417,7 @@ friday和saturday。
 
 或许这就是阿狸吧。 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/47B8B0206FE54E78E59491C41F6D801B_B500_900_500_320.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091905.jpg) 
 
 《白色花开》 
 
@@ -471,7 +471,7 @@ friday和saturday。
 
 阿狸因为挂的时间太长了，挂了......所以呢，后面的每一段爱情故事就这样悲伤的循环下去...... 
 
-![](http://m3.img.srcdd.com/farm3/d/2012/0422/22/2A0295EF36E57DC0B0F233CFB5D91B43_B500_900_500_320.JPEG) 
+![](http://pics.naaln.com/blog/2019-01-14-091906.jpg) 
 
 【遇见】 
 

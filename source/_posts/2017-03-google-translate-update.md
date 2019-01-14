@@ -21,9 +21,9 @@ tags:
 
 ### 32 种语言即时语音互译
 
-![](http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2017/03/3-29-2017-12-54-19.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032042.gif)
 
-![](http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2017/03/19.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032043.gif)
 
 它甚至能同时识别多种语言，妈妈再也不担心我的口音了。
 
@@ -33,17 +33,17 @@ tags:
 
 除了「语音互译」，使用相机即时翻译功能也超级厉害：只要将相机镜头对准相应的图片，就能够即时翻译图片中的文字，无需联网，还不耗流量。就问你厉不厉害。
 
-![](https://ww4.sinaimg.cn/large/006tKfTcly1fe3sb54wzhj30rs0ok43u.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032044.jpg)
 
 我尝试着找了一份英文资料来测试，效果同样惊艳。
 
-![](http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2017/03/13-2.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032046.gif)
 
 另外，拍照翻译功能非常贴心，具有拉近、冻结画面、开关手电筒的功能，使用起来特别方便。
 
 可以看看下面贴心小功能解析：
 
-![](https://ww1.sinaimg.cn/large/006tKfTcly1fe3scjoc3wj30s40kun0m.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032046.jpg)
 
 遇到无法通过电脑复制黏贴的文本，使用 Google 翻译的「实景翻译」功能，就能完美解决看不懂的问题了。
 
@@ -61,7 +61,7 @@ tags:
 
 而且，还能边输入边更正——
 
-![](http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2017/03/06-2.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032048.gif)
 
 ### 除了翻译，它想到的还更多
 
@@ -75,11 +75,11 @@ tags:
 
 更贴心的是，翻译的文字能放大变成单词卡，在国外用来问路或者示意再方便不过了。
 
-![](https://ww1.sinaimg.cn/large/006tKfTcly1fe3sfcxs78j30rs0fngn1.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032049.jpg)
 
 给译文加上星标后，会出现在收藏页面，你可以把重要的翻译内容放在这里，以备不时之需。
 
-![](https://ww3.sinaimg.cn/large/006tNc79ly1fe3sfkf7hwj30rs0ok0x5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032050.jpg)
 
 ### 人工智能是最大的功臣
 

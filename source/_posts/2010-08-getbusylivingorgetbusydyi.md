@@ -69,7 +69,7 @@ Some birds aren't meant to be caged, that's all. Their feathers are just too bri
 
 对 白： 英语
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1faho2mvltsj30ci09egn6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-092040.jpg)
 
 **剧情简介：**
 

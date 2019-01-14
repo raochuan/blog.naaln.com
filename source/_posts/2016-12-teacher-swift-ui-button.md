@@ -9,7 +9,7 @@ tags:
 
 ## 一、内容概要
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1faqrak2q08j30qz064gmf.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032255.jpg)
 
 按钮是所有UI体系中非常重要的组件，在iOS中按钮UIButton的使用也非常灵活，本文将从以下几点介绍UIButton的使用（**基于Swift2.0**）：
 
@@ -77,7 +77,7 @@ func setBackgroundImage(image: UIImage?, forState state: UIControlState)
 
 这里着重讨论一下**setBackgroundImage**接口，很多时候，按钮看起来是这样的
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1faqrbljj5tj30qy064mxg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032257.jpg)
 
 这些按钮，背景相同，只是尺寸不一样，下面来谈一下，如何复用这一类图片资源.
 
@@ -99,7 +99,7 @@ func UIEdgeInsetsMake(_ top: CGFloat, _ left: CGFloat, _ bottom: CGFloat, _ righ
 
 这个方法提供了上下左右的参数来创建**可变区域**,如下图（Tips:下图标明的可变区域与视图内边距是不同的概念）
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faqrc0jzk7j308c08c74l.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032258.jpg)
 
 图中，蓝色标识为可变区域， 绿色标识为不变区域。**UIEdgeInsets**结构体的属性**top**与**bottom**为一对，用来指定纵向可变区域（黑色虚线矩形），**left**与**right**为一对，用来指定横向可变区域(白色虚线矩形)。当UIButton/UIImageView的**size**大于UIImage的**size**时，会调整图片中可变区域大小以铺满整个控件,具体调整规则如下：
 
@@ -130,7 +130,7 @@ button.setBackgroundImage(resizeImage!, forState: UIControlState.Normal)
 ##### Tips  
 在一些应用中，应用程序有一些非纯色背景，这个背景会在多个界面使用，由于设备分辨率、界面控件的尺寸差别，会要求制作多个尺寸的图，导致ipa包变大、内存使用增加。这里结合上面**(2)**设置可变区为整张图片，可以解决此问题,原理请看[无缝贴图](http://baike.baidu.com/link?url=EDIwNePycksKQ9MceuZpQLk0C12VWOS4lvb1wVQlzEgW8zliYw44HqDP8RHwArL8uldvUWpXZ3qg4MHgeDtm4K)
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faqrca776zj30rs0dwq5d.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032300.jpg)
 
 示例代码如下：
 
@@ -144,11 +144,11 @@ self.bkImageView.image = resizeImage
 
 Xcode提供了Asset Catalogs的方式来管理图片资源，Asset Catalogs提供了可视化界面来设置图片的可变区，操作方便，使用简单。点击右下方的**Show Slicing**
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1faqrciq9oij31hc0lo0wu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32301.jpg)
 
 进入编辑模式后，图片的中间会有一个**Start Slicing**按钮，点击后，会让我们选择拉伸方式，如下图：
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faqrcrfzakj31hc0lomzu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032301.jpg)
 
 三个按钮的作用
 
@@ -158,7 +158,7 @@ Xcode提供了Asset Catalogs的方式来管理图片资源，Asset Catalogs提�
 
 水平及垂直的拉伸处理相同，这里以水平为例,选择水平拉伸按钮1后，会提供三条操作线用来指定可变区及删除区
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1faqrd24oi4j31kw0rrmz3.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032302.jpg)
 
 可变区：操作线1与操作线2指定的区域，在拉伸时，会根据最终尺寸改变此区域的大小  
 
@@ -169,7 +169,7 @@ let image = UIImage(named: "image_asset_name")
 button.setBackgroundImage(image, forState: UIControlState.Normal)
 ```
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faqrdb2k1ij31gm0tkwh8.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032303.jpg)
 
 ## 三、UIButton其它用法
 
@@ -177,7 +177,7 @@ button.setBackgroundImage(image, forState: UIControlState.Normal)
 
 有些时候，我们需要一个圆形按钮，例如头像：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1faqrdn9tn6j30rs0b4aaq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032304.jpg)
 
 ```
 let image = UIImage(named: "user_avatar")
@@ -189,7 +189,7 @@ self.button.imageView?.layer.cornerRadius = self.button.frame.width / 2
 
 UIKit中没有复选框组件怎么办？
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1faqrdv5udkj30rs0b4q3m.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032305.jpg)
 
 ```
 func checkBoxButton() {
@@ -243,7 +243,7 @@ self.view.addSubview(countButton)
 
 UIButton的frame会直接影响到**setImage**及**setBackgroundImage**的显示效果，有的时候我们只需要扩大UIButton的点击区域，而不想直接修改UIButton的frame而影响显示。这时可以通过以下方法来处理
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1faqre65u81j30rs0b4aaq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032307.jpg)
 
 将UIButton的父视图(superView)的点击事件占有，所有的触控操作全部转嫁到UIButton控件上。iOS在处理事件分发时，分为两个步骤：第一步，查找哪一个UI组件响应此事件，第二步，事件处理，响应者链。要实现事件的转嫁，在第一步中来处理即可，代码如下：
 

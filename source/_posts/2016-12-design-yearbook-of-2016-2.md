@@ -7,7 +7,7 @@ tags:
 - 设计
 ---
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fb7lx7m7srj31jk0ep42q.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032342.jpg)
 
 随着2016年结束的临近，2016年有许多值得思考，值得细细的回味的地方，这将引领我们在新的一年继续前行。我想这是回顾这一年当中的热点或是趋势的最好时间。
 
@@ -19,9 +19,9 @@ tags:
 
 对于手机或者网页来说，`行动呼吁 (Call To Action)`是最重要的东西。设计师们总是尝试着在页面中突出重点。行动呼吁是一个十分总要的趋势，我必须着重强调。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fb7m0mrahtj30m80go769.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32343.jpg)
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fb7m0v7y6lj30m80go0v8.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032343.jpg)
 
 > 译者注：Call To Action 是透过设计让用户自己想到要做某种行为，而不是要求、呼吁用户去做
 
@@ -32,15 +32,15 @@ tags:
 
 Spotify 提出了这个设计理念，并且成了一个设计的趋势。每一天，都有新的网站变成了这种有梯度的双色风格。这种效果赋予一些旧照片新的活力。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fb7m15aatrj30uk0ipabu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032345.jpg)
 
 ### 显著大胆用色
 
 没有用错的颜色，只有用错颜色的人。新的趋势是用明亮的，大胆的颜色。颜色可以吸引人们的注意，影响人们的心情，改变人们的情绪，感知人们的行动。如果相让这些设计出现在手机或者网页上的时候，那么请用明亮，大胆的颜色。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fb7m1j3khfj30m80godik.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032346.jpg)
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fb7m1py28hj307k01la9z.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032347.jpg)
 
 ### 去除网格
 
@@ -48,7 +48,7 @@ Spotify 提出了这个设计理念，并且成了一个设计的趋势。每一
 
 就和网格重要性一样，网格有着自己的限制，呆板，限制了设计师们的发挥。为了突变传统的呆板的体验，设计师们将通过打破网格来尝试新的布局。现在就是一种趋势。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fb7m1ys5s5j30m80go3yz.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032348.jpg)
 
 ### 脱离图片的条条框框
 
@@ -62,11 +62,11 @@ Spotify 提出了这个设计理念，并且成了一个设计的趋势。每一
 
 *[intercom](https://www.intercom.com/)*
 
-![intercom](https://ww1.sinaimg.cn/large/006tNc79gw1fb7m38wf7qj30zk0k3djw.jpg)
+![intercom](http://pics.naaln.com/blog/2019-01-14-032349.jpg)
 
 *[dropbox](https://www.dropbox.com/)*
 
-![dropbox](https://ww4.sinaimg.cn/large/006tNc79gw1fb8cgbfq2sj30zk0k30v2.jpg)
+![dropbox](http://pics.naaln.com/blog/2019-01-14-032350.jpg)
 
 #### 形状，只保留形状
 

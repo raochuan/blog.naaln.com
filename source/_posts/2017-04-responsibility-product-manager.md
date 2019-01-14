@@ -7,7 +7,7 @@ tags:
   - 产品经理
 ---
 
-![产品经理职责](https://ww3.sinaimg.cn/large/006tNbRwgy1feoilfdnzwj30yz2dzh0i.jpg)
+![产品经理职责](http://pics.naaln.com/blog/2019-01-14-032051.jpg)
 
 ### 1.市场调研分析
 

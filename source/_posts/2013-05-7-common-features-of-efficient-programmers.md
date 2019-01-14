@@ -20,7 +20,7 @@ Justin James给出了能够成为业内顶尖高手的程序员应该具有的�
 
 本文将给出成为一个伟大的程序员所必须具备的7项特质。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpkzgnt7j30dn09v3yt.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-085256.jpg)
 
 **1. 主动学习新的技术和非技术两方面的知识**
 

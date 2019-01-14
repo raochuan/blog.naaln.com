@@ -9,7 +9,7 @@ tags:
 
 > 其实，应用市场图相关文章之前就有写，一直没有整合。最近在进行新版本设计，在新版本设计中，分析的竞品与优秀应用的市场图多达40余款，从中发现问题并得到解决方案，一同记录下来，分享给大家。
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzohl4e7j30m80da75r.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzohl4e7j30m80da75r.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031804.jpg)](http://pics.naaln.com/blog/2019-01-14-031804.jpg)
 
 文章开始我们来说说应用市场图的名称，它即被叫作**市场图**、**应用市场图**，也有被称为**应用截图**、**上架图**等。所以当大家听到这几个名词时，就可以知道说的是什么了。
 
@@ -31,7 +31,7 @@ tags:
 
 在选择应用时，进入应用市场映入眼帘的必定是**首屏图片**，在同行业竞品竞争激烈，同质化严重的现今，对于用户来说，怎么样在几百上千款应用中挑出喜欢的，必然是要有所不同甚至让人耳目一新。**除了利用更加出彩的设计作为首屏，还可以使用宣传视频作为首屏**。
 
-[![](https://ws2.sinaimg.cn/large/006tKfTcgy1filzlp82taj30rs0gokj1.jpg)](https://ws2.sinaimg.cn/large/006tKfTcgy1filzlp82taj30rs0gokj1.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031806.jpg)](http://pics.naaln.com/blog/2019-01-14-031806.jpg)
 
 （以视频为首屏的百度、抖音）
 
@@ -41,7 +41,7 @@ tags:
 
 当用户选择进入应用的详情页时，必然是对应用产生了兴趣，这时候用户所关心的是能否获取想要的信息，亮点原则是突出产品亮点，**“能用两个字说完的特性，就尽量不要写两句话”，用户的时间很宝贵，尊重用户时间的同时，也为产品自身创造了不错的自我介绍时间。**
 
-[![](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlqc4j8j30rs0gonom.jpg)](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlqc4j8j30rs0gonom.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031810.jpg)](http://pics.naaln.com/blog/2019-01-14-031810.jpg)
 
 **作用：让用户捕捉重点，便于用户了解产品核心功能特性，收获有价值的信息。**
 
@@ -51,7 +51,7 @@ tags:
 
 如App上架标题，迭代的更新说明等。
 
-[![](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlregt9j30v10d5tag.jpg)](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlregt9j30v10d5tag.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031812.jpg)](http://pics.naaln.com/blog/2019-01-14-031812.jpg)
 
 （微信读书）
 
@@ -61,7 +61,7 @@ tags:
 
 对比是设计的基本原则之一，是区分类似与不同的基本方法。**文字与截图的对比，背景与元素的对比**，正如展示时是重界面展示，还是重文案说明的区分，推荐可以去看看**格式塔心理美学**设计。
 
-[![](https://ws2.sinaimg.cn/large/006tKfTcgy1filzlt58x2j30rs0f01kx.jpg)](https://ws2.sinaimg.cn/large/006tKfTcgy1filzlt58x2j30rs0f01kx.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031816.jpg)](http://pics.naaln.com/blog/2019-01-14-031816.jpg)
 
 （Prisma：字与元素的对比）
 
@@ -71,7 +71,7 @@ tags:
 
 统一原则是UI设计中最常见，也是最基本的原则，这点不做详解，试想下大阅兵如果大家穿着五颜六色，步伐杂乱无章，那画面一定辣眼睛（题外话）。这里的统一原则包括**风格统一、样式统一、字体统一等。**
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzltivo5j30v10d9wgr.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzltivo5j30v10d9wgr.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-31819.jpg)](http://pics.naaln.com/blog/2019-01-14-31819.jpg)
 
 （得到）
 
@@ -81,7 +81,7 @@ tags:
 
 色彩心理学对于人所产生的影响这里就不做详解，有兴趣的朋友可以自行翻译书籍，这里推荐《色彩心理学》《设计色彩》《FPA性格色彩》等书籍，相信能对大家色彩搭配有所帮助。
 
-[![](https://ws2.sinaimg.cn/large/006tKfTcgy1filzltzv5sj30uw0d7jv2.jpg)](https://ws2.sinaimg.cn/large/006tKfTcgy1filzltzv5sj30uw0d7jv2.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031820.jpg)](http://pics.naaln.com/blog/2019-01-14-031820.jpg)
 
 （咕噜咕噜）
 
@@ -91,7 +91,7 @@ tags:
 
 擅长**利用元素丰富画面**的设计师必定是个好设计，或者是个老司机，元素对于界面的影响是如虎添翼，并不是说不添加元素就是差的设计，只是某些模块利用元素来进行用户**视觉聚焦**，能够达到不错的效果。
 
-[![](https://ws4.sinaimg.cn/large/006tKfTcgy1filzluv5gdj30ur0d0adn.jpg)](https://ws4.sinaimg.cn/large/006tKfTcgy1filzluv5gdj30ur0d0adn.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031822.jpg)](http://pics.naaln.com/blog/2019-01-14-031822.jpg)
 
 （微博）
 
@@ -105,7 +105,7 @@ tags:
 
 ——仅应用内截图界面
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlv7x5zj30un0d1q66.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlv7x5zj30un0d1q66.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031824.jpg)](http://pics.naaln.com/blog/2019-01-14-031824.jpg)
 
 （Dribbble）
 
@@ -113,7 +113,7 @@ tags:
 
 ——应用内截图配上相关的说明文案
 
-[![](https://ws1.sinaimg.cn/large/006tKfTcgy1filzlwdyfej30ux0dan0q.jpg)](https://ws1.sinaimg.cn/large/006tKfTcgy1filzlwdyfej30ux0dan0q.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031826.jpg)](http://pics.naaln.com/blog/2019-01-14-031826.jpg)
 
 （美颜相机）
 
@@ -121,7 +121,7 @@ tags:
 
 ——戴上手机框，更贴近生活使用情景
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlxih1jj30v30d2415.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlxih1jj30v30d2415.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031829.jpg)](http://pics.naaln.com/blog/2019-01-14-031829.jpg)
 
 （QQ音乐）
 
@@ -129,7 +129,7 @@ tags:
 
 ——利用元素或者界面焦点来强调视觉主题中心
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzly8qrvj30my0cz0w6.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzly8qrvj30my0cz0w6.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031833.jpg)](http://pics.naaln.com/blog/2019-01-14-031833.jpg)
 
 （腾讯动漫）
 
@@ -137,7 +137,7 @@ tags:
 
 ——跨屏界面能够很好地吸引用户的关注，近几年比较火的设计，因为应用市场中一级导航展示的一般为前两个页面。
 
-[![](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlzeodmj30ku0qy0xa.jpg)](https://ws3.sinaimg.cn/large/006tKfTcgy1filzlzeodmj30ku0qy0xa.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031848.jpg)](http://pics.naaln.com/blog/2019-01-14-031848.jpg)
 
 （贴吧）
 
@@ -145,7 +145,7 @@ tags:
 
 ——直接采用功能性元素或者界面截图
 
-[![](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlzzry0j30ku0scdlb.jpg)](https://ws4.sinaimg.cn/large/006tKfTcgy1filzlzzry0j30ku0scdlb.jpg)
+[![](http://pics.naaln.com/blog/2019-01-14-031853.jpg)](http://pics.naaln.com/blog/2019-01-14-031853.jpg)
 
 （bilibili）
 

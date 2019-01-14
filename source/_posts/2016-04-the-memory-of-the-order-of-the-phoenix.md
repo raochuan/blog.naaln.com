@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](https://ww3.sinaimg.cn/large/48910e01jw1f2tpkxfwx9j20j60crwg1.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060753.jpg)
 
 以前的我总是看到杂志里的旅行者背着70升的旅行包，穿梭于世界的每一个角落。自然，年少的我对这种生活方式充满了向往，但直到我工作了，也没有踏上过这种旅途。
 

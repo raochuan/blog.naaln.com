@@ -7,7 +7,7 @@ tags:
   - 产品
 ---
 
-![](https://ww1.sinaimg.cn/large/006tKfTcgy1ff7b4ou2auj30go09ct9i.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032040.jpg)
 
 今天在看书的时候看到一个问题，什么是一个好产品？是好用的，还是好看的？
 

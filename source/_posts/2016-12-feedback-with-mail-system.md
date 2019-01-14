@@ -11,17 +11,17 @@ tags:
 
 不过较常用且方便的，还是如下图（应用为[潮汐](https://itunes.apple.com/cn/app/chao-xi-mei-hao-fan-jia-zhong/id1077776989?mt=8)），调用系统的MFMailComposeViewController视图在应用内完成邮件发送，并返回应用。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1favw61u5pgg309d0g50vy.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032236.gif)
 
 ### 建立静态列表
 
 首先，拖一个`Table View Controller`到`main.storyboard`中，并选中`Table View`在右侧属性面板中将其设置为静态列表`Static Cells`。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1favw6441eqj30eg07maao.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032237.jpg)
 
 为了演示方便这里就先创建一个`Section`，其中有两行`Cell`。两个`Cell`的`Style`都设置为`Basic`，并将`Title`修改如下。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1favw66w1enj30yg064gmg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032240.jpg)
 
 接着在右边工具栏面板中为其设置好`Custom Class`。由于这里暂时用不到这个`UITableViewController`类里的内容，可以把他们都注释掉或删掉。接着在其中重写一个`tableView`点选的函数：
 
@@ -44,7 +44,7 @@ override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPat
 
 处理完`UITableViewController`以后，就可以开始调用邮件视图了。不过先不急着写代码，首先需要导入框架`MessageUI.framework`。在项目设置`Build Phases`的`Link Binary With Libraries`中添加`MessageUI.framework`。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1favw69zd91j30yg0jkwh7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032241.jpg)
 
 然后在`Controller`里导入头文件`import MessageUI`。并给`Controller`加上`MFMailComposeViewControllerDelegate`协议。
 
@@ -209,4 +209,4 @@ let appName = infoDic?["CFBundleDisplayName"]
 
 到这里，一个调用MFMailComposeViewController的iOS邮件反馈就基本写完了。运行的时候，要注意用虚拟器的话可能会报错，测试需要真机环境。效果如下。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1favw6bzgj5g309z0h8ta3.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032243.gif)

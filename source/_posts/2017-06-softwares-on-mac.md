@@ -83,5 +83,5 @@ tags:
 
 1. 从 Apple 菜单中，选取“系统偏好设置”。
 2. 点按“辅助功能”图标。
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fh15ita5ojj30zk0n0q68.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031736.jpg)
 

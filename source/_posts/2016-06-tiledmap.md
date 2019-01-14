@@ -29,5 +29,5 @@ categories:
 * 瓦片等级越高，组成世界地图的瓦片数越多，可以展示的地图越详细。
 * 某一瓦片等级地图的瓦片是由低一级的各瓦片切割成的4个瓦片组成，形成了瓦片金字塔。
 
-![](https://ww4.sinaimg.cn/large/006y8mN6gw1fahq9jwb48j308n076mxe.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-060757.jpg)
 

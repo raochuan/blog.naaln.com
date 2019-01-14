@@ -56,3 +56,8 @@ gem sources -l
 pip install pip -U
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
+
+## npm
+```
+npm config set registry https://registry.npm.taobao.org
+```

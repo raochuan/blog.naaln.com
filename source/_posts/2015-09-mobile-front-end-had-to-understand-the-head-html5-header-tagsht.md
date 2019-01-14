@@ -258,7 +258,7 @@ Android Lollipop 中的 Chrome 39 增加 theme-color meta 标签，用来控制�
 
 [http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android](http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 
-![687474703a2f2f757064617465732e68746d6c35726f636b732e636f6d2f6173736574732f7468656d652d636f6c6f722d73732d39393530666431336130633532623332623662643538303330396435356136622e706e67](https://ww3.sinaimg.cn/large/006tNc79gw1fahq68wn6pj309e0godho.jpg)
+![687474703a2f2f757064617465732e68746d6c35726f636b732e636f6d2f6173736574732f7468656d652d636f6c6f722d73732d39393530666431336130633532623332623662643538303330396435356136622e706e67](http://pics.naaln.com/blog/2019-01-14-061011.jpg)
 
 	<meta name="theme-color" content="#db5945">
 
@@ -292,7 +292,7 @@ Windows 8 磁贴图标
 
 	<meta name="google" value="notranslate" />
 
-![A70DF5F6-374B-448D-B433-EB99081A9F13](https://ww2.sinaimg.cn/large/006tNc79gw1fahq6a0ecaj30us03gwfc.jpg)
+![A70DF5F6-374B-448D-B433-EB99081A9F13](http://pics.naaln.com/blog/2019-01-14-061012.jpg)
 
 ### 移动端的头部标签和meta
 

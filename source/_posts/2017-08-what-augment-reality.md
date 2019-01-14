@@ -7,7 +7,7 @@ tags:
   - 增强现实
 ---
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fihd70kh6wj30hs0a0mxx.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031918.jpg)
 
 随着增强现实（AR）应用和硬件在科技行业的流行，我们有必要使用**Scott Jenson**的**价值>痛苦理论**讨论一下AR。AR对生活的提升是否超过为了使用它带来的痛苦。也就是说，它是否足够的引人注目，可以成为日常必需品。
 
@@ -15,23 +15,23 @@ tags:
 
 总之，我的目标就是字面意义上的“增加”。就是更强人们在生活工作中接收到信息。以下是我的十个插图。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fihcgto615j31h40tu433.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031919.jpg)
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fihcjq48zdj31h20tu794.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031921.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fihclaj9eaj31h20tugst.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031924.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fihcnwinu1j31h60tqtjy.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-31925.jpg)
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fihcp200muj31h40tutfv.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031926.jpg)
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fihcqd8bxxj31h40tydo8.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031927.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fihcr7wyvaj31h40tswlg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031928.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fihctj89m0j31h40tun5a.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031931.jpg)
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fihcwaqsjnj31h80tw450.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031933.jpg)
 
 译者注：
  

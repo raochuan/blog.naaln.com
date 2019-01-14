@@ -14,7 +14,7 @@ tags:
 
 智能、AI，是今年创投圈的关键词。如果你在京东、淘宝上搜索各种家电，多多少少这些产品都会说自己是「智能」的，到底什么是智能？把安卓系统塞到硬件里，这个硬件是不是就是智能了？我认为不是。在我的字典里，「智能设备」指的是当我说 1 ，它知道我接下来要说 2 ，当我还没说 3 ，它就能说出 4 的产品；同时，它知道我在 A 场景里说 1，需要的是 3 ，而在 B 场景里，我需要的是 2。
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd2eo6s9tj30hs0nigm9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032124.jpg)
 
 按照这个定义，很多在宣传上带有「智能」二字的产品根本**不能称为智能，而是能而不智**。
 
@@ -56,11 +56,11 @@ tags:
 
 另一个例子是 Google 搜索，比如当我在 Google 搜索《神奇女侠》的时候，Google 不仅给出了传统的搜索结果，还提供了最近的电影放映时间，因为它猜我有可能想去看这部电影：
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd2eoxiryj30hs09y74u.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032125.jpg)
 
 它还在侧栏展示了电影的演员，当我点开主角 Gal Gadot 的搜索页面时，Google 展示了以前也扮演过神奇女侠的演员，因为它认为我可能对这些女演员有兴趣：
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd2epagi5j30hs0dyt9h.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032126.jpg)
 
 这些，都是场景化的智能，当我阅读一条狗血新闻时，头条给我推荐一条更狗血的，当我搜索一个关键词时，Google 认为我可能对相关的其它信息感兴趣。Google 不会突然在 Gmail 里冒出神奇女侠的搜索结果，因为我正在处理工作，显然没有心思关心电影什么时候上映。
 
@@ -98,7 +98,7 @@ Google 和苹果分别给出了不一样的答案。
 
 苹果和 Google 音箱的侧重点显然不一样，从官网的介绍页面也能看出。Google Home 的介绍页面前几页，都是介绍它的功能以及有多么「智能」，而苹果则是花大量的章节介绍音质和外观。这体现了两家公司对智能音箱的定位不同和技术积累区别。
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd2epuhlkj30hs0eajsf.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032127.jpg)
 
 Google 从搜索起家，很早就开始部署 AI ，如果你有使用 Google Assistant app，你会发现它的聪明程度超过 Siri 几百条街。如果你有使用 Google 相册，你会发现，Google 对照片的识别能力比 iCloud 强太多，Google 能把我过去 10 多年的照片里我识别出来，并识别为唯一一个人，但 iCloud 却识别成好几个人。
 

@@ -15,7 +15,7 @@ tags:
 
 虽然小退还隐隐作痛，但一想可能还遇到美女
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1faho2p7d16j30g40l6q7i.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-92041.jpg)
 
 于是乎，就一瘸一拐的出了寝室 
 
@@ -25,7 +25,7 @@ tags:
 
 他说 都是 宿管，我的妈呀，心的寒了一半
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1faho2rch15j30g4054dgv.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-092042.jpg)
 
 uic ——>北师大 ——>中大 ——>回去 
 
@@ -35,11 +35,11 @@ uic ——>北师大 ——>中大 ——>回去
 
 但这群宿管 走的真的很牛 
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faho2tronqj30g40c3wfg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-092043.jpg)
 
 最后传一点照片 
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1faho2twlzrj30g403faae.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-092044.jpg)
 
 最后在中大吃了午饭，不过价格真他妈的便宜，足足是uic的一半~~~ 
 

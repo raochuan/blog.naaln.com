@@ -11,7 +11,7 @@ tags:
 
 * 本示例代码基于 Xcode 7 ，并使用Swift 2.0 写成。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1favw6dv49ug307r0eg15z.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032309.gif)
 
 ## 正向传值
 

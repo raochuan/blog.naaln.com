@@ -199,7 +199,7 @@ REST 要求每个资源至少有一个 URI。 RESTful 服务使用人类可读�
 
 RESTful应该有统一接口。HTTP 1.1 提供了一系列方法，被称为动作。在这其中比较重要的动作是：
 
-![](https://ww4.sinaimg.cn/large/006tNbRwly1fdc6wi6c5xj30go069t9e.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032321.jpg)
 
 安全的操作是指对原始资源值不会产生影响的操作。列如，数学上的操作除以1就是安全的操作，因为无论多少次用1除一个数，原始数值都不会改变。幂等操作是指无论多少次执行都给出相同结果的操作。例如，数学上的乘以0就是幂等的，因为无论计算多少次结果都是零，结果都是一样的。类似的，一个安全的HTTP方法不会使服务器上的资源发生变化。一个幂等的HTTP方法无论执行多少次都会有相同的响应。把方法分类成安全和幂等的可以使客户端在不稳定的Web环境中再次触发相同的请求的结果变得更可预测。
 
@@ -247,7 +247,7 @@ PUT 和 POST 的关键不同在于 PUT 是幂等的，而 POST 不是。
 
 另一个不同，使用 PUT 你需要定义资源完整的 URI。这意味着客户端能构造资源的URI哪怕资源不存在于服务器上。客户端选择资源唯一的名字或 ID 是可能的。就像在服务器上创建一个用户需要客户端选择用户 ID。如果客户端不能猜测出资源完整的URI，你别无选择，只能使用 POST。
 
-![](https://ww3.sinaimg.cn/large/006tNbRwly1fdc6wv9d8ej30go0403yw.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32322.jpg)
 
 很明显，PUT 请求不会修改或创建超过一个资源，无论触发多少次（如果URI相同）。当资源存在时 PUT 和 POST 是没有区别的，都是更新已存在资源。第三个请求（POST [http://MyService/Persons/](http://MyService/Persons/)）会在每次触发都创建资源。许多开发人员认为 REST 不允许 POST 被用于更新操作。然而，REST 并没有这样的限制。
 
@@ -303,11 +303,11 @@ Request2: GET [http://MyService/Persons/2](http://MyService/Persons/2) HTTP/1.1
 
 缓存可以由下面的HTTP头控制：
 
-![](https://ww3.sinaimg.cn/large/006tNbRwly1fdc6x6r6rdj30fd066mxn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032322.jpg)
 
 这些头部的值可以组合起来用在Cache-Control指令中来检查缓存结果是否有效。最通用的用于Cache-Control的指令如下：
 
-![](https://ww1.sinaimg.cn/large/006tNbRwly1fdc6xcaeioj30go09sjsc.jpg)  
+![](http://pics.naaln.com/blog/2019-01-14-032323.jpg)  
 
 服务决定这些头和指令的值是根据资源的特性。
 
@@ -321,7 +321,7 @@ Service Name：MyService
 
 Address: [http://MyService/](http://MyService/)
 
-![](https://ww2.sinaimg.cn/large/006tNbRwly1fdc6xgdm5gj30go07mgmf.jpg)  
+![](http://pics.naaln.com/blog/2019-01-14-032324.jpg)  
 
 你也可以文档化每个资源的模型表示（representations ）并且提供一些简单的模型表示（representations ）。
 

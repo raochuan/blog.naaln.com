@@ -17,7 +17,7 @@ tags:
 
 ### 界面预览
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fhde51e744j31dc0p3ado.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031737.jpg)
 
 ### 下载地址
 
@@ -27,13 +27,13 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 对于一个尝鲜者，第一步就是找到插件的工具面板。我们先来试试面板上的十一个功能。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhddt81vhkj30go0dkmyf.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031739.jpg)
 
 ### 1、连线／Link
 
 众所周知，四娃和五娃是一起出生的，可以把他俩连在一起。
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fhddueo4lcg30dc09lak3.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031740.gif)
 
 线有点粗哈哈，距离过短不适合使用。线不在 Artboard 上，是锁定在 Page 上的，因此不会跟随 UI 元素的拖动（没有 Omni Graffle 中磁力点的功能）。
 
@@ -43,19 +43,19 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 六娃常年隐身，我们需要标注下他的位置。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhddv5okx0g30dc08bn4u.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031742.gif)
 
 选中目标后点击可以点击三下，第一下标注在右边出现，第二下会将标注换到左边，第三下则会取消。
 
 目前只支持数字序号。这个应该是要配合文本框使用的，在页面上逻辑较复杂处 mark 一下，然后在文本框里打上序号并进行细节描述。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhddvg6ploj30go0ai3z6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031742.jpg)
 
 删除中间序号的话，会让你选择是保留序号还是重置序号。
 
 ### 3、Font／字体替换
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhddw0fq4ag30dc08ujy9.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031743.gif)
 
 可以替换整个文件或者当前页面的字体。
 
@@ -63,7 +63,7 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 四娃擅火，他希望大家叫他火娃。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhdfyq42f9g30dc08uwq5.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031745.gif)
 
 同样支持全文件以及当前页面的替换，但是用词和 Font 功能中不同，不知道是不是不同的工程师开发的。
 
@@ -73,7 +73,7 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 六娃闪现后继续隐身。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhddx253d4j30dc08ujsi.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031745.jpg)
 
 有时候会接到这么一个需求，需要微调下整个产品的主色调。需求虽小，工作量却是非常饱和，先从 symbol 下手，然后还要挨个界面查漏补缺。
 
@@ -83,7 +83,7 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 他们发现爷爷没了。
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fhddy79uxcg30dc09y10g.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031748.gif)
 
 不支持直接拖移导出。支持自定义图标的尺寸和颜色。面板上方有筛选功能，但目前均只有一个选项，应该是还在完善中。
 
@@ -93,13 +93,13 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 ### 7、UI Kit／同步 UI 库
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhddyj9dezj30go06zjrr.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031748.jpg)
 
 可以导入仅作演示，并非放出的工具，希望大家制作自己的 Kit。可以将团队的 UI Kit 快速导入，不需要原始的粘贴复制大法了。
 
 ### 8、Palette／同步色板
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhddystfdqj30go03h3yr.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031749.jpg)
 
 该功能可将其他 Sketch 文件中的色彩配置导入。
 
@@ -107,7 +107,7 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 大娃成熟了，出山。
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fhddzt1dx9j30go0ao0ta.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031751.jpg)
 
 这个功能名字叫补齐宽高，其实就是一种高自由度的切图导出方式，比较实用。
 
@@ -115,11 +115,11 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 ### 10、Picker／快捷取色
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhde067togg30dc08kjus.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031751.gif)
 
 ### 11、CSS／生成代码
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fhde0sh8xxg30dc08kdjz.gif)
+![](http://pics.naaln.com/blog/2019-01-14-031752.gif)
 
 ## 其他功能
 
@@ -127,22 +127,22 @@ Github：[weixin/WeSketch](https://github.com/weixin/WeSketch/blob/master/README
 
 ### 1、标注样式设置
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhde14vzq1j30go08cwet.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031753.jpg)
 
 这这里更改连线和标注的颜色和线宽。
 
 ### 2、资源路径设置
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fhde1g9tu5j30go04y74k.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031754.jpg)
 
 在这里添加团队 UI Kit 的存储路径，方便导入。
 
 ### 3、导出图片格式设置（支持小程序）
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhde1pr0a3j30go06zjrr.jpg)  
+![](http://pics.naaln.com/blog/2019-01-14-031755.jpg)  
 
 ### 4、插件设置
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhdebzmhyxj30go08s3yv.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031756.jpg)
 
 可以设置各个功能的快捷键以及是否在工具面板上出现。

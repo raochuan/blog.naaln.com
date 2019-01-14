@@ -7,7 +7,7 @@ categories:
 tags: 
 ---
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpmhzyv1j30c80iawfe.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064534.jpg)
 
 在一个偏远的小城镇，一个老妇人坐在门口晒太阳，她那未满6岁的小孙女提着编织花篮跑了回来，“奶奶，奶奶为什么我都采不到花~”
 
@@ -35,7 +35,7 @@ tags:
 
 小女孩：奶奶~奶奶你怎么流眼泪了，别吓我啊！小女孩可爱的小鼻子和小眼眶也开始泛红了，看着就要大哭出来了。（完）
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpmj6e9pj30c80bvmxi.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064535.jpg)
 
 下着雨的白天和夜晚似乎没什么区别
 
@@ -53,7 +53,7 @@ tags:
 
 当面具戴久的时候
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpmlms0ej30c80hf0ue.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064536.jpg)
 
 如果时间不是忽然一下子过了那么多有多好
 
@@ -69,7 +69,7 @@ tags:
 
 微弱到连我也怀疑它的存在
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpmmv1bzj30c80853yt.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-064538.jpg)
 
 被触及的温柔
 

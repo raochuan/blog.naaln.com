@@ -11,7 +11,7 @@ tags:
 
 首先我们先看看 Arduino的实物图，下面是最常见的一种Arduino实物图片（关于Arduino的分类，我们会在后面详述）： 
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpcy8n5rj30ch09egn2.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091701.jpg)
 
 图中已经用红线根据功能将各个模块区分出来，相信对单片机开发稍有了解的朋友一定已经发现，这不就是一个以AVR单片机最小系统为核心的控制板吗？
 
@@ -21,11 +21,11 @@ tags:
 
 下面我们以图表的形式来比较一下单片机裸机、市面上一般的单片机开发板和Arduino之间的比较。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpd2cdwjj30je0g1tai.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091703.jpg)
 
 上面的表格中列出了三种选择方案的最直观比较（表中没有比较购买渠道的便利性比较，随着网络购物的普及，这一点已经不再成为爱好者们需要特别关注的问题），看起来似乎 Arduino并没有特别的优势，那么为什么Arduino会得到如此热度的追捧呢？
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpd3uy5zg306703u3yb.gif)
+![](http://pics.naaln.com/blog/2019-01-14-091703.gif)
 
 要回答这个问题，我们必须首先回顾一下Arduino的发展历程。2005年，意大利 Ivrea 一家高科技设计学校的老师Massimo Banzi为了能给学生们提供一种便宜好用的微控制器平台，与当时在这所学校做访问学者的西班牙籍芯片工程师David Cuartielles合作设计了最初的Arduino电路板。随后Arduino便开始迅速的在欧洲流行起来，并且逐渐将春风吹到了美国、日本、台湾、香港等地区，最近一两年更是在大陆地区蓬勃的发展起来。
 
@@ -45,33 +45,33 @@ Arduino诞生之初确实是为嵌入式开发的学习而生，但发展到今�
 
 在大陆，Arduino更多的还是作为一种嵌入式学习和开发工具出现，但是它的魅力绝不仅仅如此，它完全可以作为一种新“玩具”，甚至新的艺术载体，来吸引更多各个领域的人们加入到Arduino的神奇世界里来。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahpd83v92j30dw099aa7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091705.jpg)
 
 用Arduino 控制的三轮小车 
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahpdcuh8kj30zk1betc7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091706.jpg)
 
 擦除白板的自动机器
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahpdie7pmj30dw098glm.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091707.jpg)
 
 发条微博自动给你煮咖啡是不是已经迫不及待，想要开始你的 Arduino之旅了？赶快到购物网站上搜一搜Arduino，然后……是不是被各种不同的Arduino控制板搞花了眼？ 
 
 Arduino 并不是一成不变的，每隔一段时间，Arduino官方组织就会发布最新的设计，对Arduino在原有基础上进行升级，让爱好者们更方便的使用。同时，为了满足不同层次的开发要求，Arduino也推出了不同版本的控制板设计，这里我们来认识一下使用最多的几种设计： 
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpdlvhjhj30ci08rdim.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-91708.jpg)
 
 Arduino Uno
 
 Uno 版本应该说是Arduino的基础板，也是初学者的第一选择。它提供了基本的数据接口，对初学者足够的存储空间，无论是读取传感器，还是驱动电机，或者与电脑通信，都可以轻松的胜任。 
 
-![](https://ww1.sinaimg.cn/large/006y8lVagy1fcbko536gwj30ci064t9k.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091708.jpg)
 
 Arduino Mega 2560
 
 这一版可以算是Uno 的升级版，各种接口的数量比Uno要多，而且其搭载的单片机型号也要比Uno的单片机更高级一些，运算速度更快。如果你觉得Uno的硬件资源无法满足你的需求，那么你可以尝试一下Mega，当然价格也会比Uno要更高一些。 
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpdsbierj307t0af0tq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091709.jpg)
 
 Arduino Nano
 
@@ -102,7 +102,7 @@ Void loop()
 
 相信很多朋友已经猜出来了， Arduino代码是把初始化的代码放在了setup函数中，而把需要不断循环执行的代码放在了loop函数中。与传统的嵌入式程序虽然结构不同，但设计思想还是一致的。 
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahpdtab1tj30dw0goq3q.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-091712.jpg)
 
 开发环境软件截图（此开发环境可以在 Arduino网站上免费下载） 
 
@@ -110,7 +110,7 @@ Arduino 的代码语法与C++类似，也包含了类和对象的支持。即便
 
 很多 Arduino制作还要涉及另外一种程序的编写，便是上位机程序。一般是PC端的程序，你可以采用任何你所熟悉的高级语言进行开发，接收Arduino控制板所传递过来的数据（串口传输），在屏幕上显示输出或写入文件。VB、VC++、Delphi、Flash script、Processing等等都能满足你的要求。 
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahpdww64bj30bo0fk74l.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-91713.jpg)
 
 一个通过上位机程序控制外部电路灯的颜色
 

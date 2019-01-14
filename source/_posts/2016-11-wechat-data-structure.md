@@ -24,19 +24,19 @@ tags:
 
 从很久以前，iOS 微信的大部分数据就保存在这个 SQLite 3 数据库里。没有安卓上可恶的加密，直接可以打开。这个文件在 Documets/xxxx/DB/MM.sqlite，中间是对应用户名的 MD5，稍后会讲它的具体含义。不过一般只需要遍历所有的。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahqcgxbalj30go04ygnb.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032451.jpg)
 
 我们感兴趣的是 Chat_ 开头的表，分别是和一个人（或群聊、公众号）的对话内容；以及记录朋友列表的 Friend 和 Friend_Ext。下面两图是朋友表的内容：
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahqchwvalj30go04ygnb.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032451.jpg)
 
-![](https://ww3.sinaimg.cn/large/006y8lVagw1fahqckh0apj30go03vgmo.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032452.jpg)
 
 很明显，微信号是 UsrName，昵称是 NickName，备注名在 ConRemark。
 
 此外在 ConStrRes2 里面（XML 格式）还有一些有用的信息。比如地区、签名、来源、LinkedIn……我们更需要的是头像的地址 HeadImgUrl，下面会用到。
 
-![](https://ww2.sinaimg.cn/large/65e4f1e6gw1fahqcli81zj20go01i0t2.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032454.jpg)
 
 特别有个属性叫 alias 需要处理。我们知道每个用户最多可以修改一次微信号，那么新的微信号就会保存在 alias 当中。因为很多地方是用微信号作为 key 来索引到用户的（尽管每个用户也有一个数字的 ID），我们对两种微信号都要检查。
 
@@ -48,17 +48,17 @@ tags:
 
 我发现在同一个文件夹下面还有名叫 WCDB_Contact.sqlite 的文件。打开之后一目了然：
 
-![](https://ww2.sinaimg.cn/large/65e4f1e6gw1fahqcp28moj20go029jro.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032455.jpg)
 
 猜想是因为随着中老年用户大量加入各种群聊，用户表的长度急速增长（聊天室里的陌生人可能也需要记录信息呀！），所以微信在最近的版本里选择了分表，而我刚好赶上了它转存数据的这个时间。
 
 后面那些列都是 BLOB 格式的二进制，打开之后是这样的：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahqcqdmtxj30go053jt4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032456.jpg)
 
 以人类的视角，我们很容易看出所有内容的含义，只要多一些耐心，都可以直接找到需要的内容。问题在于，让程序怎么分割呢？
 
-![](https://ww4.sinaimg.cn/large/65e4f1e6gw1fahqcqo991j20go053jt4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032457.jpg)
 
 我们来观察一下这位微信号为 suan*******cai 的朋友的信息。图片中选中了他的微信号字符串，那么微信如何知道这是需要的字符串呢？一种猜想是用分隔符，例如 C 字符串的 '\0' 结尾。但是，这字符串之后是 0x1a （或者其他很多可能性），无法与正常字符区分。另一种选择是在文件开始记录每一个变量的偏移量，但是观察其他文件发现开头部分非常短，最多 3 字节，不足以保存这样的内容。
 
@@ -80,7 +80,7 @@ tags:
 
 有了前面的准备，我们已经可以解析 `Chat_[0-9a-f]{32}` 表，并且以文本形式导出每个对话的聊天记录。怎么知道聊天的对象是谁？Chat_ 后面是 UsrName 或 alias 的 MD5 值。
 
-![](https://ww3.sinaimg.cn/large/006y8mN6gw1fahqcvg88hj30go05t760.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032458.jpg)
 
 首先看一下聊天记录的结构。MesLocalID 是一个比较重要的数字，虽然暂时还用不到。CreateTime 顾名思义，并且应该是 UTC+0 的。Message 就是消息本身。Type 表示消息的类型，可以自己试验一下，最后 Des 应该表示我是否为消息的接收方。
 
@@ -132,7 +132,7 @@ tags:
 
 打开 mmsetting.archive，这是一个 plist 文件，在里面有几项是我的微信号、昵称、头像地址……
 
-![](https://ww3.sinaimg.cn/large/006y8mN6gw1fahqcvg88hj30go05t760.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032458.jpg)
 
 问题在于这里没有很清楚的 key-value 形式，所以只能猜测出来一些找到相应内容的方法。如果能改进一下就更好了。
 

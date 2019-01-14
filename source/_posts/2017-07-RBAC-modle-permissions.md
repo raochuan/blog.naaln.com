@@ -9,7 +9,7 @@ tags:
 
 > 站在巨人的肩膀上我们可以看得更远，而不是再造一个轮子。
 
-![naaln](https://ws3.sinaimg.cn/large/006tNc79gy1fhgd2upixcj30iw08wdh2.jpg)
+![naaln](http://pics.naaln.com/blog/2019-01-14-031951.jpg)
 
 我们在做任何一款产品的时候，或多或少都会涉及到用户和权限的问题。譬如，做企业类软件，不同部门、不同职位的人的权限是不同的；做论坛类产品的时候，版主和访客权限也是不一样的；再例如一款产品的收费用户和免费用户权限也是迥然不同的。
 
@@ -21,7 +21,7 @@ tags:
 
 RBAC是一套成熟的权限模型。在传统权限模型中，我们直接把权限赋予用户。而在RBAC中，增加了“角色”的概念，我们首先把权限赋予角色，再把角色赋予用户。这样，由于增加了角色，授权会更加灵活方便。在RBAC中，根据权限的复杂程度，又可分为RBAC0、RBAC1、RBAC2、RBAC3。其中，RBAC0是基础，RBAC1、RBAC2、RBAC3都是以RBAC0为基础的升级。我们可以根据自家产品权限的复杂程度，选取适合的权限模型。
 
-![1](https://ws3.sinaimg.cn/large/006tNc79gy1fhgcn0qwz3j30je0573yn.jpg)
+![1](http://pics.naaln.com/blog/2019-01-14-31952.jpg)
 
 ## 二、基本模型RBAC0
 
@@ -29,7 +29,7 @@ RBAC是一套成熟的权限模型。在传统权限模型中，我们直接把�
 
 RBAC0是基础，很多产品只需基于RBAC0就可以搭建权限模型了。在这个模型中，我们把权限赋予角色，再把角色赋予用户。用户和角色，角色和权限都是多对多的关系。用户拥有的权限等于他所有的角色持有权限之和。
 
-![2](https://ws3.sinaimg.cn/large/006tNc79gy1fhgcn20pkjj30jf09mmxo.jpg)
+![2](http://pics.naaln.com/blog/2019-01-14-031952.jpg)
 
 **举例：**
 
@@ -41,7 +41,7 @@ RBAC0是基础，很多产品只需基于RBAC0就可以搭建权限模型了。�
 
 RBAC1建立在RBAC0基础之上，在角色中引入了继承的概念。简单理解就是，给角色可以分成几个等级，每个等级权限不同，从而实现更细粒度的权限管理。
 
-![3](https://ws4.sinaimg.cn/large/006tNc79gy1fhgcn334ebj30je09mgmd.jpg)
+![3](http://pics.naaln.com/blog/2019-01-14-031953.jpg)
 
 **举例：**
 
@@ -53,7 +53,7 @@ RBAC1建立在RBAC0基础之上，在角色中引入了继承的概念。简单�
 
 RBAC2同样建立在RBAC0基础之上，仅是对用户、角色和权限三者之间增加了一些限制。这些限制可以分成两类，即静态职责分离SSD(Static Separation of Duty)和动态职责分离DSD(Dynamic Separation of Duty)。具体限制如下图：
 
-![4](https://ws3.sinaimg.cn/large/006tNc79gy1fhgcn3o8iej30jf09nwfv.jpg)
+![4](http://pics.naaln.com/blog/2019-01-14-031954.jpg)
 
 **举例：**
 
@@ -65,7 +65,7 @@ RBAC2同样建立在RBAC0基础之上，仅是对用户、角色和权限三者�
 
 RBAC3是RBAC1和RBAC2的合集，所以RBAC3既有角色分层，也包括可以增加各种限制。
 
-![5](https://ws2.sinaimg.cn/large/006tNc79gy1fhgcn5abrbj30jg05v0st.jpg)
+![5](http://pics.naaln.com/blog/2019-01-14-31955.jpg)
 
 **举例：**
 
@@ -77,7 +77,7 @@ RBAC3是RBAC1和RBAC2的合集，所以RBAC3既有角色分层，也包括可以
 
 基于RBAC模型，还可以适当延展，使其更适合我们的产品。譬如增加用户组概念，直接给用户组分配角色，再把用户加入用户组。这样用户除了拥有自身的权限外，还拥有了所属用户组的所有权限。
 
-![6](https://ws2.sinaimg.cn/large/006tNc79gy1fhgcn5uwk8j30je0apwev.jpg)
+![6](http://pics.naaln.com/blog/2019-01-14-031958.jpg)
 
 **举例：**
 

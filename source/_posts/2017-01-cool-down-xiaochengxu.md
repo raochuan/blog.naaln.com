@@ -13,7 +13,7 @@ tags:
 
 一周的时间，各种app的卸载率惨不忍睹，各种小程序纷纷关闭。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gy1fbupcea2ihj30go08z0tf.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32325.jpg)
 
 罗胖子带着他的1000万用户跑了
 

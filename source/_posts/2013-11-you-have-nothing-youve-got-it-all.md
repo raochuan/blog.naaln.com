@@ -78,7 +78,4 @@ tags:
 你现在一无所有，但你却拥有一切，因为你还有梦想。只要路是自己选的，就不怕走远，生活总会留点什么给对它抱有信心的人的。
 
  
-
-ref:<http://www.u148.net/article/82829.html>
-
 [1]: https://ww2.sinaimg.cn/large/006tNc79gw1f5115g3t91j30e608ft99

@@ -23,25 +23,25 @@ Today 还会把对那些充满创意的开发者们的采访展现出来，看�
 
 在 Today 中，我们可以做的，还有很多。
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fgbxwjfwuqj30go0rj0ti.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031757.jpg)
 
 ### Games（游戏）
 
 游戏是 App Store 中最受欢迎的一个类别，所以我们为它专门定制了一套独特的浏览体验。不仅仅单独设立了一个 Tab，针对游戏我们还可以看到推荐理由、新版本更新重点以及夺人眼球的视频和排行榜等等内容，还有精心挑选的游戏集合等。
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fgbxwwwms1j30go0tngmn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031759.jpg)
 
 ### Apps（应用）
 
 全新的 Apps Tab 更关注用户的需求和体验，像 Games 一样，页面中整合了应用推荐理由、视频、精选集，以及排行榜等。
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fgbxxcd6rbj30go0rmwfq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031800.jpg)
 
 ### App Product Page（应用详情页）
 
 新版本的应用详情页变得更吸引人，我们在顶部强调了评分和评价情况，并且留出了可定制的区块来展示视频和五张应用截图。
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fgbxxoyh80j30go0rjwfn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031801.jpg)
 
 ### In-App Purchases（应用内购买）
 
@@ -49,7 +49,7 @@ Today 还会把对那些充满创意的开发者们的采访展现出来，看�
 
 对用户来说，他们现在可以在 App Store 操作应用内的购买，然后去应用当中获取购买的内容。这相当于为开发者们在 App Store 中开拓了一个新的购买营销渠道。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fgbxy44u3nj30go0hx3yu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031802.jpg)
 
 全新的特性、全新的 Tabs、全新的内容和视觉设计，我们希望你能享受这个全新的 App Store。祝贺这些非凡的应用以及它们背后的开发者，未来永远充满惊喜，我们也因伴你同行而倍感荣幸。
 

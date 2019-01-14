@@ -7,7 +7,7 @@ tags:
 - 设计
 ---
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fb7lx7m7srj31jk0ep42q.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032327.jpg)
 
 随着2016年结束的临近，2016年有许多值得思考，值得细细的回味的地方，这将引领我们在新的一年继续前行。我想这是回顾这一年当中的热点或是趋势的最好时间。
 
@@ -21,7 +21,7 @@ tags:
 
 使用像`CanvasFlip`之类的工具，设计师可以从项目开始就开始验证项目的正确性。今天的设计师花费更少的时间争论用户会喜欢什么，他们只是推出原型来测试真实用户。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fb8oidebcpj30yo0jsq6x.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032328.jpg)
 
 ### 聊天机器人和人工智能
 
@@ -31,7 +31,7 @@ tags:
 
 机器人已经存在了很长时间，但他们现在成为趋向的原因是在于人工智能的进步。以Google Allo应用为例，这个在今年9月下旬推出的即时通讯应用程序是最好的例子。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fb8oouvjydj30xc0mfwhq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032333.jpg)
 
 ### 开发设计的新兴工具
 
@@ -39,7 +39,7 @@ tags:
 
 CanvasFlip可以同时进行多种流程。从设计到原型到用户测试，到设计整个项目的切换和协作。从头到尾使用相同的工具，使工作流程无痛苦，无缝协作和节省时间。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fb8ov8dwo2j30qo0f0q4e.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32334.jpg)
 
 ### 桌面设计手机化
 
@@ -47,17 +47,17 @@ CanvasFlip可以同时进行多种流程。从设计到原型到用户测试，�
 
 > 大多数桌面网站将看起来像一个应用程序。这是Google搜索引擎，今年已经开始，通过从右侧的菜单中删除他们的广告和行业守着。重要的是，在任何平台都希望其用户使用相同的界面，而不需要每次使用不同的设备，学习一个新的使用习惯。 -- Noam Alloush，SITE123的创始人。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fb8p3jda3zj30qo0f00tn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032334.jpg)
 
 
 ### 卡片，滚动和视差趋势
 
 卡片，滚动和视差不是一个新的突破性趋势，但它们是一个很基础性的UI，它们在2016年的网页设计中一直占据显着地位。它在未来一年将保持这样的趋势。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fb8p5n9qbdj30m80go75y.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032336.jpg)
 
 2016年也展示了翻转卡的交互设计（如[tinder](https://www.gotinder.com/)的UX）也有很高的使用率。有许多设计师反对采纳，觉得它遏制了创新。但事实仍然是，它是成功的。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fb8p5urhldj30m80go3z1.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032338.jpg)
 
 原文：[A design yearbook of 2016](https://uxplanet.org/a-design-yearbook-of-2016-22ff9c81bd8#.avxmvxojr)

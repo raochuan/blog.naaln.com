@@ -20,25 +20,25 @@ tags:
 
 我们先点击左下角新建一个`Blank Workflow`
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq559xxdj30ds08y0tc.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061100.jpg)
 
 填入想要的信息如：
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq568gp9j30uc0my43k.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061101.jpg)
 
 点击确认`save`后开始编写`Workflow`
 
 我们先建立一个`script filter`
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq58jtaqj30g406sjs8.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061102.jpg)
 
 然后填入一下的信息
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq5bvbatj312i0xkn5d.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061104.jpg)
 
 然后我们进入文件所在的目录
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq5exr0hj30g40auabb.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061105.jpg)
 
 首先下载[deanishe][2]提供的`alfred-workflow`python包，在新建一个`youdao.py`的文件。里面写上需要执行的代码：
 
@@ -68,7 +68,7 @@ tags:
 
 然后新建`Copoy to Clipborad`
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq5gnw2jj30j60ahdhe.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61106.jpg)
 
 用线连起来就是了。
 

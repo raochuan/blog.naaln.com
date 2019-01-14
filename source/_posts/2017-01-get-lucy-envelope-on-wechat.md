@@ -76,13 +76,13 @@ public static double getRandomMoney(LeftMoneyPackage _leftMoneyPackage) {
 
 对应图表如下：
 
-![](https://ww3.sinaimg.cn/large/006tKfTcgw1fbda7zewgsj30go0afwfs.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032316.jpg)
 
-![](https://ww1.sinaimg.cn/large/006tKfTcgw1fbda9716owj30go0addh7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32317.jpg)
 
 继续2000次
 
-![](https://ww4.sinaimg.cn/large/006tKfTcgw1fbdab18crvj30go09eabq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032317.jpg)
 
 可以看出大家抢到的红包其实是差不多的。
 

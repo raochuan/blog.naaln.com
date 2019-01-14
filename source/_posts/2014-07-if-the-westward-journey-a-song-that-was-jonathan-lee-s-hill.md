@@ -19,154 +19,154 @@ tags:
 
 **想说却没说的 还很多**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd157sceoj30dw07tdga.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061628.jpg)
 
 想象一位讲话含糊不清的老人，你坐在他面前听故事。他记忆紊乱，叙事模糊，开始便讲出了结局（500 年后至尊宝的剧情），然而结局又不是结局，你可以这么想，齐天大圣与至尊宝，是老人回忆中过去的自己。
 
 **攒着是因为想写成歌** **让人轻轻地唱着 淡淡地记着**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd1584mxhj30go0b4ta4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061629.jpg)
 
 老人呢喃，听似在讲故事，又像是在哼唱一首渐行渐远的歌。可能往事如歌，不管时空如何转变，世界如何改变，最终只留下一首歌而已。取经路漫漫而遥远无尽，你就在路上遇见这位取经人——讲故事的老人。
 
 **就算终于忘了 也值了**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd158x85lj30go0913z2.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061630.jpg)
 
 讲故事的人都已记不清故事，你又何必追问？怕是时过境迁，编剧和演员们，也记不清当年为何要那样来。有些事情，回想起来，就像是注定的，又像是随便发生的。爱情也好，恩怨也好，三颗痣也好。
 
 **说不定我一生涓滴意念** **侥幸汇成河** **然后我俩各自一端**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd159a7h0j30go08ngmx.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061631.jpg)
 
 说不定，只是说不定。到底有没有重逢过，还只是一场幻影。老人说，他也不知道。他说如果是你，度过了岁月蹉跎，回头望去，也会满目倒影，似有昔日痕迹。
 
 **望着大河弯弯 终于敢放胆**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd15ak88nj30go09dwfu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061632.jpg)
 
 命运之河，谁能逆流？老人言语间都是对无奈的无奈。
 
 **嘻皮笑脸 面对 人生的难**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd15b9gikj30go096aaw.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061633.jpg)
 
 其实故事里讲述的都是面对命运和人生的选择，选择做个什么样的人，当时怎么选择的，后来怎么放弃的。选择生，或者选择死。每个角色都做出了自己的选择。
 
 **也许我们从未成熟** **还没能晓得 就快要老了** **尽管心里活着的还是那个年轻人**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15bn3ovj30go09ata9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061634.jpg)
 
 老人默然垂头，有些事情他也没有想明白。又怎么对你讲。
 
 **因为不安而频频回首**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd15chb9qj30go0c475r.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061635.jpg)
 
 而背影也都会渐渐消失在远方。
 
 **无知地索求 羞耻于求救** **不知疲倦地翻越 每一个山丘**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15d8vtlj30go0b40ta.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061637.jpg)
 
 故事里的人都有自己的追求，为此各自奔波，但追求如此不易，能有几个追得到？求长生？求眷属？
 
 **越过山丘 虽然已白了头**
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd15df3mcj30eg095myv.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061638.jpg)
 
 但还是走向了同一条路。取经也好，做灯芯也好。殊途同归。
 
 **喋喋不休 时不我与的哀愁**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd15ecirkj30go08n75i.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061639.jpg)
 
 老人说那时情景，其实不是唐僧喋喋不休，是老人自己喋喋不休，想说很多。想讲一个长故事。他说那时烦恼忧愁，那时风光快意。
 
 **还未如愿见着不朽** **就把自己先搞丢**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15fc6nfj30go09djtj.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061641.jpg)
 
 又说那时迷失。人其实不受时空迷失，而是自己的心迷失。
 
 **越过山丘 才发现无人等候**
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd15g8gicj30dh07it9g.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061642.jpg)
 
 于是迷失之后，闹剧之后，人去楼空之后，剩下什么？孤独。落寞。
 
 **喋喋不休 再也唤不回温柔**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15gmu9zj30d30850t4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061644.jpg)
 
 所以不是唐僧沙和尚变得沉默，是老人自己变得沉默。再回头看第一句，想说却没说的，还很多。岁月流逝，欲言又止。
 
 **为何记不得上一次是谁给的拥抱** **在什么时候**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd15hw3wyj30go09dtb5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61645.jpg)
 
 每个人心中都对美好的结局有所期冀，老人也不例外，在美好期冀中，人们都各得其所，得偿所愿。但希望中是什么样，现实中并不一定是什么样。
 
 **我没有刻意隐藏 也无意让你感伤**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15ipyqej30go08nmyg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061646.jpg)
 
 老人说，只是想给你讲个故事，也许不够严谨，也许不够完整。好在起码可以度过漫漫长夜，说不定还能骗你一张电影票钱换酒喝。
 
 **多少次我们无醉不欢** **咒骂人生太短 唏嘘相见恨晚**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15jiry4j30go09djs9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61647.jpg)
 
 这句歌词也是你对老人的感觉。人生太短，相见恨晚。感受自在人心，有共鸣就好，何必多言，多虑。
 
 **让女人把妆哭花了 也不管**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd15kff09j30go09dq3k.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061647.jpg)
 
 对于老人的故事，可能别人听了和你一样感动，不过旁人有旁人的感动，你有你自己的感动，因为你也有或者开始有自己的往事。这个故事这么多年，多少人感触过多少言语。老人也记不清了。
 
 **遗憾我们从未成熟** **还没能晓得 就已经老了** **尽力却仍不明白** **身边的年轻人**
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd15l4ig3j30go09d0ue.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061649.jpg)
 
 老人说，那些老气横秋，固然有老气横秋的理由，却不足为人道。因为人是人他妈生的，妖是妖他妈生的，老人是老人他妈生的。
 
 **给自己随便找个理由**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15lm6u0j30f808idge.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061650.jpg)
 
 人的转变大多不是通过理由的。随便的理由就可以从妖怪变作豆腐西施吗？是谁变成了谁，还是谁产生了谁，都不重要。记不记得另外一首歌：故事里的事，说不是也不是是也不是。
 
 **向情爱的挑逗 命运的左右**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd15mjfwaj30go09dmz6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061651.jpg)
 
 说完无奈，还是无奈。对欲望的无奈，不能自已的无奈。
 
 **不自量力地还手 直至死方休**
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgd15nhrcuj30go09ddhr.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061653.gif)
 
 以及无奈中的挣扎。五百年，一万年，只是一个符号，一个分界线，在回忆中，粗暴的分开过去，现在，未来。
 
 **越过山丘 才发现无人等候**
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd15o1znbj30go09dmyp.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061654.jpg)
 
 老人说，在所有让我们等待的事物里，希望是最无情却又最让人着迷的。这个山丘等不到，便朝着下个山丘奔跑。
 
 **喋喋不休 再也唤不回了温柔**
 
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fgd15ouo44j30go09dabh.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061655.jpg)
 
 过去再多无奈，总有美好。城楼上是不是失去的美好回来了，作为听众，你很希望如此。但得失已经变得不重要。
 
 **为何记不得上一次是谁给的拥抱**
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fgd15pb7vkj30go09d75f.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061656.jpg)
 
 故事中，人的身份都是扑朔迷离的，因为老人记忆混乱，常常搞错。要知道，你若想倾听一个老人讲故事，就不该字字认死。请面带微笑，或者干脆陪着胡闹。
 
 **在什么时候**
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgd15qs18qj30go09074x.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061659.jpg)

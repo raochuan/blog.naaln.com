@@ -19,7 +19,7 @@ tags:
 > * 体验 - 快速响应，并且有平滑的动画响应用户的操作
 > * 粘性 - 像设备上的原生应用，具有沉浸式的用户体验，用户可以添加到桌面
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fjfvzwpgctg30gl0k1u0x.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032001.gif)
 
 简单的说就是让网页像APP一样使用，听着是不是很像微信小程序。其实小程序就是PWA的一个变种。传统的PWA需要依托 Chrome 来使用，而小程序则依托于微信。
 
@@ -31,7 +31,7 @@ PWA依赖 HTTPS ，增加离线化能力。
 
 首先需要使网站支持 Https，就像我的网站，有 secure 标志。
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fjfvw3876hj31kw08cdhk.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032013.jpg)
 
 我是部署在 Coding 的，直接支持 Https，具体使用我就不展开说了。
 

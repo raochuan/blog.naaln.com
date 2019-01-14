@@ -54,7 +54,7 @@ var anotherStr: String = "Hello World"
 
 使用问号?表示某个变量是Optional类型，如果没有显示赋值Swift会自动给Optional类型变量赋值nil。上述的代码中，声明了两个Int类型的变量，其中someNumber是Optional类型，而 anotherNumber是普通的Int类型并且值为 100 。我们可以把Optional类型想象成为一个容器，装东西用的盒子。someNumber所代表的盒子里面是空的，等着用户往里面装东西「当然，能装的东西已经规定好了，必须是Int类型」，而anotherNumber所代表的盒子里面已经装好了东西。如下图：
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahqbgs2b0j30j60723yq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32526.jpg)
 
 变量存在的意义在于：可以参与运算并完成一定的业务要求。接下来我们对上述示例代码中的变量进行一定的运算，再观察结果分析。假设，给someNumber、anotherNumber分别加上100并输出结果，那么代码如下：
 

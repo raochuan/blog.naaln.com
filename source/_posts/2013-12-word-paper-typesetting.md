@@ -23,7 +23,7 @@ tags:
 
 ## 页面布局 
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq0qyuctj309503qdfy.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61724.jpg)
 
 如果是新建一个 Word 文件，这里「页面布局」一般不用设置了：
 
@@ -39,7 +39,7 @@ tags:
 
 接着，在「视图」中，将「导航窗格」选上，方便不同的章节跳转导航。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq0sjig0j305j043dfu.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061726.jpg)
 
 ## 封面与页眉页脚
 
@@ -49,13 +49,13 @@ tags:
 
 **1、插入表格 **
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq0twuzvj306606fmxg.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061727.jpg)
 
 为什么是表格呢？因为表格是一个标准格式化的布局方式，与直接手动码字快速方便很多。
 
 **2、插入文档部件 **
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq0vondbj30go0c13zp.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061728.jpg)
 
 在建立的表格中插入文档部件——文档属性，标题、作者、单位、发布日期。
 
@@ -63,25 +63,25 @@ tags:
 
 格子不够则右击某个单元格，插入——在下方插入行。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq0x0jc6j30a207xmxl.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061729.jpg)
 
 **3、设置格式**
 
 根据要求，设置格式，拖动表格放好位置，
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq0ykgmej306x09a0sq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061731.jpg)
 
 并选择整个表格，将对齐方式设置为全居中。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq112hdyj306906v0sz.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061732.jpg)
 
 接着，选择整个表格，设计——表框——无框线。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq117o0qj306206l3yq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61733.jpg)
 
 这样，一个比较正式的封面就做好了。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1408dxj307y0ba748.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061734.jpg)
 
 同理内封也是如此制作。
 
@@ -91,15 +91,15 @@ tags:
 
 在封面的最后，页面布局——分隔符——分节符——下一页。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq15au7qj30ch09pmy3.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061735.jpg)
 
 这样，在页眉页脚设置中就能看到效果了。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq16z4fqj30ab06eaa9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61736.jpg)
 
 接着，我们在焦点放在第 2 节页眉（页脚）上，在页眉页脚设计中，将「链接到前一条页眉（页脚）」取消掉。这样，我们便可以分开设置不同节的页眉页脚了。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq198oi7j306m04ht8u.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061736.jpg)
 
 同理设置多章节内容是也是如此。
 
@@ -111,15 +111,15 @@ tags:
 
 双击页眉，进入页眉编辑模式
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq1adhsjj30go03o74t.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061737.jpg)
 
 在需要的位置，插入文档部件 —— 域
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1c9tj4j30go07nwf7.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061738.jpg)
 
 选择 StyleRef 如上图设置，即可得到在不同章显示不同的页眉了。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1fhc8aj30go03wmxh.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061739.jpg)
 
 又比如单页要章，双页要节，同理。勾选奇偶页不同，分开设置即可。
 
@@ -131,21 +131,21 @@ tags:
 
 于是，我们首先来定这个框架，每一部分的标题，换行输入，然后在开始——样式处，选择「标题 1」
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq1fybdgj30go07c3z4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061740.jpg)
 
 同时，我们在导航窗格中清楚的看到了文字结构。当然这还不够，接着，我们将光标放在某个章节标题处，选择开始——段落——多级列表。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq1id9z0j30go04zmxn.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061741.jpg)
 
 当然，一般选择默认的即可，不过根据论文格式要求，需要自定义。
 
 「定义新的多级列表」，将数字附近添加额外内容即可。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq1ky7mtj30by0biabc.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061742.jpg)
 
 同理，我们在节标题（标题 2）等，也如此设置。于是得到一个结构明了的文档框架了。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gy1fcblkp7xwdj307b0e8jsa.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061743.jpg)
 
 值得注意的，在导航窗格中，我们选中某个标题，敲击回车，便可得到一个同级的新标题，这对布局相当管用，特别是对于编了章节号的标题，它也会自动生成相同格式的章节号，并且，在这里拖动章节标题的位置，会相当智能。
 
@@ -153,11 +153,11 @@ tags:
 
 一般来说，默认样式可以满足日常需求，但是论文要求不同，于是这些样式需要逐个修改。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1o04s3j30go033t90.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061744.jpg)
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq1qdzs6j307a0320sr.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061745.jpg)
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq1s1507j30fe0e40un.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061746.jpg)
 
 这些没有固定格式，所以自行修改，注意在样式基准处，务必选择（无样式），同时这样式设置请在上一小节前进行。
 
@@ -167,17 +167,17 @@ tags:
 
 文章编写差不多后，需要为之添加目录，在前面的章节框架设置的基础上，我们便可以自动添加目录了。引用——目录——插入目录：
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1uok7pj308j03kglq.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061747.jpg)
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq1w9jcyj30fw0bz0tz.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061748.jpg)
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq1ynsncj30b70ahdgp.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061749.jpg)
 
 在任意位置均可添加。
 
 需要更新目录时，右击目录内容——更新域，即可。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq1zxzqtj305a04awei.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61750.jpg)
 
 # 细节优化 
 
@@ -185,13 +185,13 @@ tags:
 
 图表公式都是依靠「插入题注」和「交叉应用」。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq21t9g3j30av03fdfx.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061750.jpg)
 
 ### 图表 
 
 如上图，选中图片后，引用——单击插入题注（或者右击图片——插入题注）。新建标签——图。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq24poukj30c208nab5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061755.jpg)
 
 章节起始样式根据需要设置。比如我们设定成标题 2，这样图片便编号为 3.4.1。然后在后面输入需要内容。
 
@@ -199,11 +199,11 @@ tags:
 
 接着我们需要引用。单击「交叉引用」。如下选择。插入。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq25sr9oj30c208nab5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061755.jpg)
 
 这样
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq26j6ksj30c208nab5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061759.jpg)
 
 以实现图的跳转。
 
@@ -213,13 +213,13 @@ tags:
 
 选择表格，插入题注
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq28ofqdj30c207zgmj.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061800.jpg)
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq2b6d2oj30bz02d749.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061801.jpg)
 
 然后我们把这个标号拷贝到表格里面。设置好格式
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq2cdh15j30bu01gmx2.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061802.jpg)
 
 这样，在交叉引用中，balabala，同图表引用。
 
@@ -227,25 +227,25 @@ tags:
 
 其一，Mathtype 软件，可与 LaTeX 公式统一起来。（其实，这工具自带公式标注，不过，为了后面的功能——公式目录，标注用自带的）
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq2dtyrij30go01wmxb.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61803.jpg)
 
 圈出来的是我最常用的，输入 LaTeX 公式文本后，然后选定前后段落，用这个，便可自动格式化为对应的公式。特别是在公式文字混输的时候，相当便捷，如图，使用前后。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq2hfdnuj30go0c3my5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061803.jpg)
 
 其二，自带插入——公式。 （快捷键 Atl + = ，直接输入也可，语法其实和 LaTeX 类似，当然也可按钮操作）
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq2gvd2ij30go0c3my5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061804.jpg)
 
 其三，Win7 开始——所有程序——附件——数学输入面板。 （或者直接 Win + R 运行，mip）
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq2hn0msj30go01wmxb.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061805.jpg)
 
 ### 优点
 
 其实以上工作均可手动进行，不过如果需要添加图表目录的时候，便不得不如此做了。
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq2ju400j30fh0fjjte.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061806.jpg)
 
 ## 参考文献 
 
@@ -255,15 +255,15 @@ tags:
 
 论文往往是需要反复修订的，于是，审阅这一系列工具就很有用了。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq2kkssgj30fh0fjjte.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061807.jpg)
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq2ms764j308k02nglk.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061808.jpg)
 
 利用更改可以直接设置修订内容，上一条、下一条，接受或拒绝。
 
 当然有时候老师并没使用这种方法给与修订，那么，使用比较即可。
 
-![](https://ww3.sinaimg.cn/large/006tNc79gw1fahq2o1di6j304r06a0su.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61809.jpg)
 
 当然，英文写作中，这里的辅助工具也是很有用的。
 
@@ -271,7 +271,7 @@ tags:
 
 另存为。
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq2psy3ej30go0d2q4m.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061810.jpg)
 
 这样生成的 PDF 是带完整书签的，便于收藏查阅，同时去打印的时候不至于被打印处将格式破坏。
 
@@ -289,11 +289,11 @@ tags:
 
 从这里切换到大纲视图中，或者右下角。
 
-**![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq2repp6j30go0d2q4m.jpg)**
+**![](http://pics.naaln.com/blog/2019-01-14-061811.jpg)**
 
 随后，会出现大纲工具选项卡
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahq2uhipjj30go032dg4.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-61812.jpg)
 
 一方面，大纲视图可帮助你我进行思维导图，理清文档结构，
 
@@ -303,9 +303,9 @@ tags:
 
 只需要，单击 创建 按钮，再保存一下，文档就自动分割开来。
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahq2wloqpj30e30fgjt5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061812.jpg)
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahq2y29vlj30e30fgjt5.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-061813.jpg)
 
 当然也可以将其他子文档，插入进来。
 

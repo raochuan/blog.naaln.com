@@ -13,7 +13,7 @@ tags:
 
 下面我们看看技术人员和产品经理之间需要跨越的误区：
 
-![](https://ww1.sinaimg.cn/large/006tNc79gw1fahqbva8mjj30ku04djsa.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032500.jpg)
 
 优秀的技术人员做产品设计，总是假设用户和自己一样的聪明，自然而然就会把产品界面和交互设计得非常复杂，让一般的小白用户难以上手。
 

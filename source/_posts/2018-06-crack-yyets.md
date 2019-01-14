@@ -11,11 +11,11 @@ tags:
 
 但是最近这个客户端开始加入了广告。于是我就想着如何可以去除这些广告。
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fs0njfjdfsj30zk0kmqt6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031633.jpg)
 
 首先我用抓包广告抓取改软件发的请求，发现是通过`http://ctrl.zmzapi.net/app/ads`这个地址获取的广告信息。
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1fs0nm4lam5j30cr0d73zo.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-031635.jpg)
 
 能发现 APP 里一共有4种广告。
 

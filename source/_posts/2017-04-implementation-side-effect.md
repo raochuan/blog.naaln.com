@@ -9,7 +9,7 @@ tags:
 
 ### 代码示例
 
-![](https://raw.githubusercontent.com/johnlui/SwiftSideslipLikeQQ/master/assets/274a1428736205.gif)
+![](http://pics.naaln.com/blog/2019-01-14-032117.gif)
 
 ### 开发环境
 
@@ -24,7 +24,7 @@ Xcode Version 6.3 (6D570)
 
 初步体验，手Q采用的应该是线性动画，即缩放比例等随着手指滑动的距离以一次方程的形式变化。动画达到最大幅度时截图如下（4.7 寸）：
 
-![](https://ww3.sinaimg.cn/large/006tKfTcly1fe9w3w8m59j30ku112788.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032118.jpg)
 
 ### 提取基本数据：
 
@@ -38,7 +38,7 @@ Xcode Version 6.3 (6D570)
 
 字比较丑 o(╯□╰)o。注意：式（1）中的 x 表示“手指移动距离”这个变量，和上面图中表示屏幕宽度的 x 意义不同。
 
-![](https://ww3.sinaimg.cn/large/006tKfTcly1fe9w4ij1jpj30qo0zk78d.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032119.jpg)
 
 2. 矩形中心向右移动距离和手指移动距离相等
 
@@ -48,13 +48,13 @@ Xcode Version 6.3 (6D570)
 
 2. 给 HomeViewController 设置背景颜色以示区分。也可以像我一样设一个大 Label 作为更明显的区分。
 
-![](https://ww4.sinaimg.cn/large/006tKfTcly1fe9w4vcsxrj30hr0ii3z1.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32120.jpg)
 
 3. 给 HomeViewController 拖放一个 UIPanGestureRecognizer 并绑定到代码。
 
 从右下角拖一个 Pan Gesture Recognizer 到主窗体上，这一步会让它与 HomeViewController.view 自动绑定。下图为第二步，绑定到代码。
 
-![](https://ww3.sinaimg.cn/large/006tKfTcly1fe9w58fu1vj312w0podl9.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032121.jpg)
 
 3. 编写代码实现效果：
 

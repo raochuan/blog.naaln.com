@@ -19,15 +19,15 @@ tags:
 
 然后打开 iTunes，找到正在连接的手机：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahqbzlc1fj307n04dwek.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032512.jpg)
 
 在`备份`区域内，选择`本电脑`，并务必取消勾选`给 iPhone 备份加密`，否则之后我们取出的数据也是无法使用的：
 
-![](https://ww4.sinaimg.cn/large/006tNc79gw1fahqc1jootj30mr08i40a.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032513.jpg)
 
 接着，点击`立即备份`并等待备份完成：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahqc30i39j30ez01mglj.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032514.jpg)
 
 ### 获取微信数据库
 
@@ -35,23 +35,23 @@ tags:
 
 下载安装后，在左侧列表找到我们刚刚创建的备份文件（图标为 iTunes 样式的）：
 
-![](https://ww4.sinaimg.cn/large/006y8mN6gw1fahqc5wmfpj30ez01mglj.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032515.jpg)
 
 单击之后需要等待加载完成，大约需要几十秒。加载完毕之后，我们就可以选择专家模式（Expert Mode）：
 
-![](https://ww4.sinaimg.cn/large/65e4f1e6gw1fahqc7br7uj207302gjrd.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032519.jpg)
 
 我们需要的文件为 `Application Domains/com.tencent.xin/{UUID}/DB/MM.sqlite`，将其勾选：
 
-![](https://ww2.sinaimg.cn/large/65e4f1e6gw1fahqc9i1mmj209605f3yz.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032520.jpg)
 
 在 com.tencent.xin 目录下会有多个 UUID 组成的目录，其中一个全部为 0 可以忽略。剩下就需要根据你的微信用户来选择了（如果知道算法的小伙伴请不吝赐教！），我的手机只登陆过一个微信号，所以没有这个麻烦：
 
-![](https://ww2.sinaimg.cn/large/006tNc79gw1fahqcc0nxfj30aq02t0t6.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-032521.jpg)
 
 最后，就可以单击右下角的 Extract 按钮导出数据库了：
 
-![](https://ww4.sinaimg.cn/large/006y8lVagw1fahqcf2iqhj30760270so.jpg)
+![](http://pics.naaln.com/blog/2019-01-14-32522.jpg)
 
 大功告成！
 
