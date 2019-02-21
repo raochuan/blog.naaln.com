@@ -81,10 +81,22 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 
+# deploy:
+# - type: git
+#   repo: git@git.coding.net:whyliam/blog.naaln.com.git
+#   branch: coding-pages
+
 deploy:
-- type: git
-  repo: git@git.coding.net:whyliam/blog.naaln.com.git
-  branch: coding-pages
+  type: upyun
+  bucket: naaln-blog
+  operator:  
+  password:  
+  endpoint: v0.api.upyun.com
+  secret: secret
+  try_times: 5
+  ignore_path_re:
+    dir: null
+    file: ".DS_Store$"
 
 feed:
   type: atom
@@ -157,12 +169,12 @@ cache:
 # And if you want to place your icons in `hexo-site/source/` root directory, you must remove `/images` prefix from pathes.
 
 # For example, you put your favicons into `hexo-site/source/images` directory.
-# Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
+# Then need to rename & redefine them on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: /favicon/favicon-16x16-next.png
-  medium: /favicon/favicon-32x32-next.png
-  apple_touch_icon: /favicon/apple-touch-icon-next.png
-  safari_pinned_tab: /favicon/logo.svg
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -177,8 +189,8 @@ footer:
   since: 2003
 
   # Icon between year and copyright info.
-  icon: 
-    # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons
+  icon:
+    # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons/
     # `heart` is recommended with animation in red (#ff0000).
     name: user
     # If you want to animate the icon, set it to true.
@@ -209,7 +221,7 @@ footer:
 
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+  custom_text: Hosted by <a style="display:inline-block;border-bottom:none" target="_blank" rel="external nofollow" href="https://www.upyun.com/"><img width="60px" style="margin-bottom:-6px;" src="/imgs/upyun.svg"></img></a>
 
 # Creative Commons 4.0 International License.
 # https://creativecommons.org/share-your-work/licensing-types-examples
@@ -226,7 +238,7 @@ creative_commons:
 
 # Canonical, set a canonical link tag in your hexo, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
-# Tips: Before you open this tag, remember set up your URL in hexo _config.yml ( ex. url: http://yourdomain.com )
+# Tips: Before you open this tag, remember set up your URL in hexo _config.yml (e.g. url: http://yourdomain.com)
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
@@ -267,6 +279,7 @@ menu:
 menu_settings:
   icons: true
   badges: false
+
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -340,10 +353,8 @@ avatar:
 # Table Of Contents in the Sidebar
 toc:
   enable: false
-
   # Automatically add list number to toc.
   number: false
-
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
   # Maximum heading depth of generated toc. You can set it in one post through `toc_max_depth` var.
@@ -354,13 +365,12 @@ sidebar:
   position: right
   #position: right
 
-  # Manual define the sidebar width.
-  # If commented, will be default for:
+  # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
   #width: 300
 
-  # Sidebar Display, available value (only for Muse | Mist):
+  # Sidebar Display, available values (only for Muse | Mist):
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
@@ -378,6 +388,8 @@ sidebar:
   scrollpercent: false
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
+  # Click any blank part of the page to close sidebar (only for Muse | Mist).
+  dimmer: false
 
 
 # ---------------------------------------------------------------
@@ -441,10 +453,14 @@ wechat_subscriber:
   description: 记录生活，研究产品，分享设计，分析数据，讨论科技和商业，不定期扯淡。
 
 # Reward
-reward_comment: 如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
-wechatpay: http://pics.naaln.com/48910e01gw1evkbf70jcgj20cg0cidh5.jpg
-alipay: http://pics.naaln.com/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
-#bitcoin: /images/bitcoin.png
+# If true, reward would be displayed in every article by default.
+# And you can show or hide one article specially through add page variable `reward: true/false`.
+reward:
+  enable: false
+  comment: 如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
+  wechatpay: http://pics.naaln.com/48910e01gw1evkbf70jcgj20cg0cidh5.jpg
+  alipay: http://pics.naaln.com/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
+  bitcoin: 
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
@@ -483,8 +499,8 @@ android_chrome_color: "#222"
 # Custom Logo.
 # !!Only available for Default Scheme currently.
 # Options:
-#   enabled: [true/false] - Replace with specific image
-#   image: url-of-image   - Images's url
+#   enabled: If true, will enable custom logo
+#   image: Images's url, replace it with specific image
 custom_logo:
   enabled: false
   image:
@@ -500,11 +516,11 @@ cheers_enabled: true
 
 # ---------------------------------------------------------------
 # Font Settings
-# - Find fonts on Google Fonts (https://www.google.com/fonts)
-# - All fonts set here will have the following styles:
-#     light, light italic, normal, normal italic, bold, bold italic
-# - Be aware that setting too much fonts will cause site running slowly
-# - Introduce in 5.0.1
+# Find fonts on Google Fonts (https://www.google.com/fonts)
+# All fonts set here will have the following styles:
+#   light, light italic, normal, normal italic, bold, bold italic
+# Be aware that setting too much fonts will cause site running slowly
+# Introduced in 5.0.1
 # ---------------------------------------------------------------
 # CAUTION! Safari Version 10.1.2 bug: https://github.com/iissnan/hexo-theme-next/issues/1844
 # To avoid space between header and sidebar in Pisces / Gemini themes recommended to use Web Safe fonts for `global` (and `logo`):
@@ -658,6 +674,7 @@ valine:
   guest_info: nick,mail # custom comment header
   pageSize: 10 # pagination size
   visitor: false # leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors' for counter compatibility. Article reading statistic https://valine.js.org/visitor.html
+  comment_count: true # if false, comment count will only be displayed in post page, not in home page
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -681,7 +698,7 @@ gitment:
 
 # Gitalk
 # Demo: https://gitalk.github.io
-# Reference: https://asdfv1929.github.io/2018/01/20/gitalk/, https://liujunzhou.cn/2018/8/10/gitalk-error/#more
+# Reference: https://asdfv1929.github.io/2018/01/20/gitalk/, https://liujunzhou.top/2018/8/10/gitalk-error/
 gitalk:
   enable: false
   github_id:  # Github repo owner
@@ -692,13 +709,13 @@ gitalk:
   distraction_free_mode: true # Facebook-like distraction free mode
 
 # Baidu Share
-# Available values:
-#    button | slide
+# Available values: button | slide
 # Warning: Baidu Share does not support https.
 #baidushare:
 ##  type: button
 
-# addthis Share, see: https://www.addthis.com
+# AddThis Share, See: https://www.addthis.com
+# Go to https://www.addthis.com/dashboard to customize your tools
 #add_this_id:
 
 # NeedMoreShare2
@@ -732,7 +749,9 @@ needmoreshare2:
 google_site_verification: ByVfaP_E3b9ZYRUGhNAUFSQKL8mJQwUehpQwoxJ5n-c
 
 # Google Analytics
-google_analytics: UA-47966442-2
+google_analytics: 
+  tracking_id: UA-47966442-2
+  localhost_ignored: true
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster
@@ -878,8 +897,8 @@ local_search:
 bookmark:
   enable: false
   # if auto
-  #   - save the reading position when closing the page
-  #   - or clicking the bookmark-icon
+  #  - save the reading position when closing the page
+  #  - or clicking the bookmark-icon
   # if manual, only save it by clicking the bookmark-icon
   save: auto
 
@@ -1004,7 +1023,7 @@ canvas_ribbon:
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
 # For example
-#    jquery: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+#   jquery: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
 # Be aware that you should use the same version as internal ones to avoid potential problems.
 # Please use the https protocol of CDN files when you enable https on your site.
 vendors:
@@ -1140,7 +1159,7 @@ vendors:
   # Internal version: 1.1
   # See: https://github.com/theme-next/theme-next-reading-progress
   # Example:
-  # reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1.1/reading_progress.min.js
+  # reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1/reading_progress.min.js
   reading_progress:
 
   # leancloud-storage
