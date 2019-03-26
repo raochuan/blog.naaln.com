@@ -17,6 +17,6 @@ Popcorn Time真是一个神奇的视频流服务应用，它不仅可以像Netfl
 
 ### 下载地址：
 
-[mac 安装程序](https://github.com/liszd/Popcorn-Time-Desktop/releases/download/0.3.8-6/Popcorn-Time-0.3.8-6-Mac.dmg)
+[mac 安装程序](https://github.com/whyliam/Popcorn-Time-Desktop/releases/download/0.3.8-6/Popcorn-Time-0.3.8-6-Mac.dmg)
 
-[win 64 安装程序](https://github.com/liszd/Popcorn-Time-Desktop/releases/download/0.3.8-6/Popcorn.Time-0.3.8-6-win32-Setup.exe)
+[win 64 安装程序](https://github.com/whyliam/Popcorn-Time-Desktop/releases/download/0.3.8-6/Popcorn.Time-0.3.8-6-win32-Setup.exe)

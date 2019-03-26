@@ -47,7 +47,7 @@ tags:
 
 ## 我想要在我的电脑或者服务器上识别一首歌 
 
-很好！阅读 codegen [readme](https://github.com/liszd/echoprint-codegen/blob/master/README.md)，你可以在GitHub中获取。在你自己的平台中安装（你必须把所有的文件编译，否着还有缺少文件的报告）。 
+很好！阅读 codegen [readme](https://github.com/whyliam/echoprint-codegen/blob/master/README.md)，你可以在GitHub中获取。在你自己的平台中安装（你必须把所有的文件编译，否着还有缺少文件的报告）。 
 
 <script src="https://gist.github.com/1764256.js?file=gistfile1.txt"></script>
 

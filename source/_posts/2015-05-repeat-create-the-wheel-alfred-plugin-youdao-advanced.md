@@ -55,7 +55,7 @@ tags:
   #这是不完整的代码
   if __name__ == '__main__':
   wf = Workflow(update_settings={
-     'github_slug': 'liszd/whyliam.workflows.youdao',
+     'github_slug': 'whyliam/whyliam.workflows.youdao',
      'frequency': 7
   })
 
@@ -64,7 +64,7 @@ tags:
      wf.start_update()
 ```
 
-在[https://github.com/liszd/whyliam.workflows.youdao/blob/master/youdao.py][3]查看代码
+在[https://github.com/whyliam/whyliam.workflows.youdao/blob/master/youdao.py][3]查看代码
 
 然后新建`Copoy to Clipborad`
 
@@ -74,12 +74,12 @@ tags:
 
 当然这个只是*不完整的*简单的教程。
 
-详细的源码请看 [https://github.com/liszd/whyliam.workflows.youdao][4]
+详细的源码请看 [https://github.com/whyliam/whyliam.workflows.youdao][4]
 
  [1]: http://www.deanishe.net/alfred-workflow
 
  [2]: http://www.deanishe.net/alfred-workflow
 
- [3]: https://github.com/liszd/whyliam.workflows.youdao/blob/master/youdao.py
+ [3]: https://github.com/whyliam/whyliam.workflows.youdao/blob/master/youdao.py
 
- [4]: https://github.com/liszd/whyliam.workflows.youdao
+ [4]: https://github.com/whyliam/whyliam.workflows.youdao

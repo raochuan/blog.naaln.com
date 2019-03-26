@@ -12,7 +12,7 @@ tags:
 
 复制`终端代理命令`
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g1f1oi9qmsj30ad0c276d.jpg)
+![](http://pics.naaln.com/blog/2019-03-27-105606.jpg)
 
 在`.zshrc`中配置
 
@@ -35,12 +35,12 @@ Proxifier，这软件真心是 Mac 上的神器，目前 VPN 翻墙会受到干�
 
 配置`代理`的网络请求
 
-![](https://ws4.sinaimg.cn/large/006tKfTcly1g1f1kppj2ij30sg0jawf9.jpg)
+![](http://pics.naaln.com/blog/2019-03-27-105608.jpg)
 
 配置需要使用代理的软件
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g1f1ll551aj30rx0sg75c.jpg)
+![](http://pics.naaln.com/blog/2019-03-27-105609.jpg)
 
 DNS 里的配置可以强制远程解析 DNS
 
-![](https://ws3.sinaimg.cn/large/006tKfTcly1g1f1m0rlwhj30sg0nqab6.jpg)
+![](http://pics.naaln.com/blog/2019-03-27-105610.jpg)

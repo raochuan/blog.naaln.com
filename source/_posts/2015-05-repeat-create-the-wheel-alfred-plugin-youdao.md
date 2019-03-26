@@ -28,7 +28,7 @@ tags:
 
 3\. 按`Command+回车`直接在打出翻译结果
 
-**[下载](https://github.com/liszd/whyliam.workflows.youdao/releases)**
+**[下载](https://github.com/whyliam/whyliam.workflows.youdao/releases)**
 
 ## Demo
 

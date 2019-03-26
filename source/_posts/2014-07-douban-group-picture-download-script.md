@@ -26,8 +26,8 @@ tags:
 
 脚本很简单，主要是登入，获取小组信息，获取页面信息，还有很多细节可以完善。。。
 
-github:[https://github.com/liszd/Douban\_Group\_Img][2]
+github:[https://github.com/whyliam/Douban\_Group\_Img][2]
 
 [1]: https://ww2.sinaimg.cn/large/006tNc79gw1f510shx6l3j30dw0ijmy9
 
-[2]: https://github.com/liszd/Douban_Group_Img
+[2]: https://github.com/whyliam/Douban_Group_Img

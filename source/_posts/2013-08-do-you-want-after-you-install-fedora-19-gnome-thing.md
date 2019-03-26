@@ -125,7 +125,7 @@ Windows 和 MS Office 的全部字体的安装包下载：
 ```
 ### 3.4. 安装sublime 
 ```
-[https://gist.github.com/liszd/6220684](https://gist.github.com/liszd/6220684)
+[https://gist.github.com/whyliam/6220684](https://gist.github.com/whyliam/6220684)
 ```
 
 ### 3.5. 安装 fcitx 输入法 

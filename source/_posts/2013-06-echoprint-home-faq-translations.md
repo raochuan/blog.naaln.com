@@ -51,7 +51,7 @@ Echo Nest 的歌曲ID —- 歌手的名字 —- 歌曲的名字 Echo Nest 的歌
 
 最新发布的 Echoprint Codegen是版本4.12，现在已经可以下载了。 
 
-这是一个稳定的修改版，包括bug的修复以及文档的更新。没有改变codegen生成的音乐指纹代码。 它允许被下载通过GitHub 在 “release-4.12” 的分支 [https://github.com/liszd/echoprint-codegen/tree/release-4.12](https://github.com/liszd/echoprint-codegen/tree/release-4.12) 
+这是一个稳定的修改版，包括bug的修复以及文档的更新。没有改变codegen生成的音乐指纹代码。 它允许被下载通过GitHub 在 “release-4.12” 的分支 [https://github.com/whyliam/echoprint-codegen/tree/release-4.12](https://github.com/whyliam/echoprint-codegen/tree/release-4.12) 
 
 按照以下的命令行用git下载 Echoprint Codegen ：
 
@@ -61,7 +61,7 @@ Echo Nest 的歌曲ID —- 歌手的名字 —- 歌曲的名字 Echo Nest 的歌
 
 这个方法克隆仓库，然后切换到 release-4.12的分支。根据README.md 中的介绍，这个软件将会被编译和安装。
 
-另外，可能会简单一点，你可以下载独立的zip压缩包或者tar压缩包，从 [http://github.com/liszd/echoprint-codegen/tags ](http://github.com/liszd/echoprint-codegen/tags )这个标签是 “v4.12”。 这样下载软件不需要git。
+另外，可能会简单一点，你可以下载独立的zip压缩包或者tar压缩包，从 [http://github.com/whyliam/echoprint-codegen/tags ](http://github.com/whyliam/echoprint-codegen/tags )这个标签是 “v4.12”。 这样下载软件不需要git。
 
 ## 欢迎来到Echoprint/问答 
 

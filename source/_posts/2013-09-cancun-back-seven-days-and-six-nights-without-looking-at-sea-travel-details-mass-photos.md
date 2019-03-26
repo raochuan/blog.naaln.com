@@ -443,10 +443,6 @@ Isla Contoy：位于女人岛以北30 km处，长约8 km。1981年墨西哥政�
 
 回到酒店以后才下午四点多，应该干点什么呢？当然是吃东西喝酒吹风游泳晒太阳了！
 
-[  
-](http://www.yimingchen.org/blog/wp-content/uploads/2013/01/dsc4392.jpg)[  
-](http://www.yimingchen.org/blog/wp-content/uploads/2013/01/dsc4475.jpg)
-
 ![](http://pics.naaln.com/blog/2019-01-14-062501.jpg) 
 
 ![](http://pics.naaln.com/blog/2019-01-14-062523.jpg)
