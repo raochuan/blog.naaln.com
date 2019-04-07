@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-- '8'
+- '11'
 branches:
   only:
   - master
@@ -26,6 +26,7 @@ before_install:
 install:
 - npm install
 - npm install hexo --save
+- npm audit fix
 script:
 - git submodule update --init --recursive
 - git clone https://github.com/theme-next/theme-next-algolia-instant-search themes/next/source/lib/algolia-instant-search
