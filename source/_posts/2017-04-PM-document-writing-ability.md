@@ -1,10 +1,9 @@
 ---
 title: 产品经理的文档撰写能力
 categories:
-  - 技术
+  - 产品
 date: 2017-04-20 17:59:07
 tags:
-  - 产品经理
 ---
 
 ![](http://pics.naaln.com/blog/2019-01-14-032136.jpg)

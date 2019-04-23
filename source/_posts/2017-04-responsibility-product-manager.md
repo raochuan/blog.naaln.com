@@ -1,10 +1,9 @@
 ---
 title: 产品经理职责
 categories:
-  - 技术
+  - 产品
 date: 2017-04-16 14:41:45
 tags:
-  - 产品经理
 ---
 
 ![产品经理职责](http://pics.naaln.com/blog/2019-01-14-032051.jpg)

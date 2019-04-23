@@ -3,7 +3,7 @@ layout: post
 title: 个人知识管理的方法
 date: 2014/08/11 12:37:00
 categories: 
-- 随笔
+- 产品
 tags: 
 ---
 

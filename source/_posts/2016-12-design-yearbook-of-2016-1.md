@@ -1,8 +1,8 @@
 ---
 title: 2016设计年鉴（一）
 date: 2016-12-27 22:51:09
-categories: 
-- 技术
+categories:
+  - 产品
 tags: 
 - 设计
 ---

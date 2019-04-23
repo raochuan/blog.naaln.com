@@ -54,8 +54,9 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: 技术
+default_category:  产品
 category_map:
+  产品: product
   技术: technology
   随笔: jottings
   旅行: tour
@@ -141,17 +142,18 @@ cache:
 # Redefine custom file paths. Introduced in NexT v6.0.2. If commented, will be used default custom file paths.
 # For example, you want to put your custom styles file outside theme directory in root `source/_data`, set `styles: source/_data/styles.styl`
 #custom_file_path:
-# Default paths: layout/_custom/*
-#head: source/_data/head.swig
-#header: source/_data/header.swig
-#sidebar: source/_data/sidebar.swig
+  # Default paths: layout/_custom/*
+  #head: source/_data/head.swig
+  #header: source/_data/header.swig
+  #sidebar: source/_data/sidebar.swig
 
-# Default path: source/css/_variables/custom.styl
-#variables: source/_data/variables.styl
-# Default path: source/css/_mixins/custom.styl
-#mixins: source/_data/mixins.styl
-# Default path: source/css/_custom/custom.styl
-#styles: source/_data/styles.styl
+  # Default path: source/css/_variables/custom.styl
+  #variables: source/_data/variables.styl
+  # Default path: source/css/_mixins/custom.styl
+  #mixins: source/_data/mixins.styl
+  # Default path: source/css/_custom/custom.styl
+  #styles: source/_data/styles.styl
+
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -167,7 +169,7 @@ favicon:
   # ms_browserconfig: /images/browserconfig.xml
 
 # Set rss to false to disable feed link.
-# Leave rss as empty to use site's feed link, and install hexo-generator-feed: `npm install hexo-generator-feed --save`.
+# Leave rss as blank to use site's feed link, and install hexo-generator-feed: `npm install hexo-generator-feed --save`.
 # Set rss to specific value if you have burned your feed already.
 rss: /atom.xml
 
@@ -183,11 +185,11 @@ footer:
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
-    color: '#808080'
+    color: "#808080"
 
   # If not defined, `author` from Hexo main config will be used.
   copyright:
-  # -------------------------------------------------------------
+
   powered:
     # Hexo link (Powered by Hexo).
     enable: false
@@ -201,10 +203,10 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
-  # http://www.miitbeian.gov.cn
+  # http://www.beian.miit.gov.cn
   beian:
-    enable: false
-    icp:
+    enable: true
+    icp: 京ICP备14007177号
 
   # -------------------------------------------------------------
   # Any custom text can be defined here.
@@ -250,6 +252,26 @@ index_with_subtitle: false
 # Automatically add external URL with BASE64 encrypt & decrypt.
 exturl: false
 
+# Google Webmaster tools verification.
+# See: https://www.google.com/webmasters
+google_site_verification: ByVfaP_E3b9ZYRUGhNAUFSQKL8mJQwUehpQwoxJ5n-c
+
+# Bing Webmaster tools verification.
+# See: https://www.bing.com/webmaster
+bing_site_verification: DB220684085BEDBD2E49E8E942534B1F
+
+# Yandex Webmaster tools verification.
+# See: https://webmaster.yandex.ru
+#yandex_site_verification:
+
+# Baidu Webmaster tools verification.
+# See: https://ziyuan.baidu.com/site
+baidu_site_verification: 4144ef291e4808d1a8fdfc8a833143ca
+
+# Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
+baidu_push: true
+
+
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -262,13 +284,14 @@ exturl: false
 # External url should start with http:// or https://
 menu:
   home: / || home
+  product: /categories/product/ || product-hunt
   technology: /categories/technology/ || code
   jottings: /categories/jottings/ || language
   tour: /categories/tour/ || globe
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
-  # archives: /archives/ || archive
+  archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -277,6 +300,7 @@ menu:
 menu_settings:
   icons: true
   badges: false
+
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -288,12 +312,13 @@ scheme: Muse
 #scheme: Pisces
 #scheme: Gemini
 
+
 # ---------------------------------------------------------------
 # Sidebar Settings
-# See: https://theme-next.org/docs/theme-settings/sidebar/
+# See: https://theme-next.org/docs/theme-settings/sidebar
 # ---------------------------------------------------------------
 
-# Posts / categories / Tags in sidebar.
+# Posts / Categories / Tags in sidebar.
 site_state: true
 
 # Social Links
@@ -325,8 +350,8 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  纳兰主页: http://www.naaln.com/
-  纳兰相册: http://photo.naaln.com/
+  纳兰主页: https://www.naaln.com/
+  纳兰相册: https://photo.naaln.com/
 
 # Sidebar Avatar
 avatar:
@@ -395,7 +420,7 @@ chat:
 
 # ---------------------------------------------------------------
 # Post Settings
-# See: https://theme-next.org/docs/theme-settings/posts/
+# See: https://theme-next.org/docs/theme-settings/posts
 # ---------------------------------------------------------------
 
 # Set the text alignment in the posts.
@@ -458,15 +483,18 @@ wechat_subscriber:
   qcode: http://pics.naaln.com/006tKfTcgy1fg8gpi7kaaj30by0by74i.jpg
   description: 记录生活，研究产品，分享设计，分析数据，讨论科技和商业，不定期扯淡。
 
-# Reward
-# If true, reward would be displayed in every article by default.
-# And you can show or hide one article specially through add page variable `reward: true/false`.
-reward:
-  enable: false
+# Reward (Donate)
+reward_settings:
+  # If true, reward would be displayed in every article by default.
+  # You can show or hide reward in a specific article throuth `reward: true | false` in Front Matter.
+  enable: true
+  animation: true
   comment: 如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
+
+reward:
   wechatpay: http://pics.naaln.com/48910e01gw1evkbf70jcgj20cg0cidh5.jpg
   alipay: http://pics.naaln.com/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
-  bitcoin:
+  bitcoin: 
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
@@ -492,14 +520,11 @@ post_edit:
 # Misc Theme Settings
 # ---------------------------------------------------------------
 
-# Disable Baidu tranformation on mobile devices.
-disable_baidu_tranformation: false
-
 # Reduce padding / margin indents on devices with narrow width.
 mobile_layout_economy: false
 
 # Android Chrome header panel color ($brand-bg / $headband-bg => $black-deep).
-android_chrome_color: '#222'
+android_chrome_color: "#222"
 
 # Hide sticky headers and color the menu bar on Safari (iOS / macOS).
 safari_rainbow: false
@@ -528,9 +553,10 @@ tagcloud:
   # All values below are same as default, change them by yourself
   min: 12 # min font size in px
   max: 30 # max font size in px
-  start: '#ccc' # start color (hex, rgba, hsla or color keywords)
-  end: '#111' # end color (hex, rgba, hsla or color keywords)
-  amount: 200 # amount of tags, chage it if you have more than 200 tags
+  start: "#ccc" # start color (hex, rgba, hsla or color keywords)
+  end: "#111" # end color (hex, rgba, hsla or color keywords)
+  amount: 200 # amount of tags, change it if you have more than 200 tags
+
 
 # ---------------------------------------------------------------
 # Font Settings. Introduced in NexT v5.0.1.
@@ -586,6 +612,7 @@ font:
     family:
     size:
 
+
 # ---------------------------------------------------------------
 # Third Party Services Settings
 # See: https://theme-next.org/docs/third-party-services/
@@ -611,6 +638,7 @@ math:
   mathjax:
     cdn: //cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
     #cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
+
     # See: https://mhchem.github.io/MathJax-mhchem/
     #mhchem: //cdn.jsdelivr.net/npm/mathjax-mhchem@3
     #mhchem: //cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.0
@@ -676,7 +704,7 @@ bookmark:
 # Dependencies: https://github.com/theme-next/theme-next-reading-progress
 reading_progress:
   enable: false
-  color: '#37c6c0'
+  color: "#37c6c0"
   height: 2px
 
 # Google Calendar
@@ -697,7 +725,7 @@ calendar:
 
 # ---------------------------------------------------------------
 # Comments and Widgets
-# See: https://theme-next.org/docs/third-party-services/comments-and-widgets/
+# See: https://theme-next.org/docs/third-party-services/comments-and-widgets
 # ---------------------------------------------------------------
 
 # Disqus
@@ -721,7 +749,7 @@ disqusjs:
   apikey: # register new application from https://disqus.com/api/applications/
   shortname: # See: https://disqus.com/admin/settings/general/
 
-# changyan
+# Changyan
 changyan:
   enable: false
   appid:
@@ -768,11 +796,11 @@ gitment:
 # Demo: https://gitalk.github.io
 gitalk:
   enable: false
-  github_id: # Github repo owner
-  repo: # Repository name to store issues
-  client_id: # Github Application Client ID
-  client_secret: # Github Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize github issues
+  github_id:  # Github repo owner
+  repo:  # Repository name to store issues
+  client_id:  # Github Application Client ID
+  client_secret:  # Github Application Client Secret
+  admin_user:  # GitHub repo owner and collaborators, only these guys can initialize github issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
@@ -781,7 +809,7 @@ gitalk:
 
 # ---------------------------------------------------------------
 # Content Sharing Services
-# See: https://theme-next.org/docs/third-party-services/content-sharing-services/
+# See: https://theme-next.org/docs/third-party-services/content-sharing-services
 # ---------------------------------------------------------------
 
 # Baidu Share
@@ -837,9 +865,10 @@ needmoreshare2:
       position: middleRight
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
+
 # ---------------------------------------------------------------
 # Statistics and Analytics
-# See: https://theme-next.org/docs/third-party-services/statistics-and-analytics/
+# See: https://theme-next.org/docs/third-party-services/statistics-and-analytics
 # ---------------------------------------------------------------
 
 # Baidu Analytics ID
@@ -854,18 +883,6 @@ google_analytics:
   tracking_id: UA-47966442-2
   localhost_ignored: true
 
-# Bing Webmaster tools verification setting
-# See: https://www.bing.com/webmaster
-bing_site_verification: DB220684085BEDBD2E49E8E942534B1F
-
-# Yandex Webmaster tools verification setting
-# See: https://webmaster.yandex.ru
-#yandex_site_verification:
-
-# Baidu Webmaster tools verification setting
-# See: https://ziyuan.baidu.com/site
-#baidu_site_verification:
-
 # CNZZ count
 #cnzz_siteid:
 
@@ -877,36 +894,36 @@ bing_site_verification: DB220684085BEDBD2E49E8E942534B1F
 # ---------------------------------------------------------------
 # Facebook SDK Support
 facebook_sdk:
-  enable: false
-  app_id: #<app_id>
-  fb_admin: #<user_id>
-  like_button: #true
-  webmaster: #true
+  enable:       false
+  app_id:       #<app_id>
+  fb_admin:     #<user_id>
+  like_button:  #true
+  webmaster:    #true
 
 # Facebook comments plugin
 # This plugin depends on Facebook SDK.
 # If facebook_sdk.enable is false, Facebook comments plugin is unavailable.
 facebook_comments_plugin:
-  enable: false
-  num_of_posts: 10 # min posts num is 1
-  width: 100% # default width is 550px
-  scheme: light # default scheme is light (light or dark)
+  enable:       false
+  num_of_posts: 10    # min posts num is 1
+  width:        100%  # default width is 550px
+  scheme:       light # default scheme is light (light or dark)
 
 # VKontakte API Support
 # To get your AppID visit https://vk.com/editapp?act=create
 vkontakte_api:
-  enable: false
-  app_id: #<app_id>
-  like: true
-  comments: true
+  enable:       false
+  app_id:       #<app_id>
+  like:         true
+  comments:     true
   num_of_posts: 10
 
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
 rating:
   enable: false
-  id: #<app_id>
-  color: fc6423
+  id:     #<app_id>
+  color:  fc6423
 # ---------------------------------------------------------------
 
 # Show number of visitors to each article.
@@ -948,13 +965,14 @@ busuanzi_count:
 # Tencent MTA ID
 #tencent_mta:
 
+
 # ---------------------------------------------------------------
 # Search Services
-# See: https://theme-next.org/docs/third-party-services/search-services/
+# See: https://theme-next.org/docs/third-party-services/search-services
 # ---------------------------------------------------------------
 
 # Algolia Search
-# See: https://github.com/theme-next/hexo-theme-next/blob/master/docs/ALGOLIA-SEARCH.md
+# See: https://theme-next.org/docs/third-party-services/search-services#Algolia-Search
 # Dependencies: https://github.com/theme-next/theme-next-algolia-instant-search
 algolia_search:
   enable: true
@@ -980,9 +998,10 @@ local_search:
 # Swiftype Search API Key
 #swiftype_key:
 
+
 # ---------------------------------------------------------------
 # Chat Services
-# See: https://theme-next.org/docs/third-party-services/chat-services/
+# See: https://theme-next.org/docs/third-party-services/chat-services
 # ---------------------------------------------------------------
 
 # Chatra Support
@@ -1001,12 +1020,12 @@ tidio:
   enable: false
   key: # Public Key, get it from Dashboard, See: https://www.tidiochat.com/panel/settings/developer
 
+
 # ---------------------------------------------------------------
 # Tags Settings
 # See: https://theme-next.org/docs/tag-plugins/
 # ---------------------------------------------------------------
 
-# See: https://theme-next.org/docs/tag-plugins/
 # Note tag (bs-callout)
 note:
   # Note tag style values:
@@ -1049,6 +1068,7 @@ mermaid:
   theme: forest
   cdn: //cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js
   #cdn: //cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js
+
 
 # ---------------------------------------------------------------
 # Animation Settings
@@ -1101,7 +1121,7 @@ pace_theme: pace-theme-minimal
 canvas_nest:
   enable: false
   onmobile: true # display on mobile or not
-  color: '0,0,255' # RGB values, use ',' to separate
+  color: "0,0,255" # RGB values, use ',' to separate
   opacity: 0.5 # the opacity of line: 0~1
   zIndex: -1 # z-index property of the background
   count: 99 # the number of lines
@@ -1126,10 +1146,11 @@ canvas_ribbon:
   alpha: 0.6
   zIndex: -1
 
+
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
-#! See: https://theme-next.org/docs/advanced-settings/
+#! See: https://theme-next.org/docs/advanced-settings
 #! ---------------------------------------------------------------
 
 # Script Vendors. Set a CDN address for the vendor you want to customize.

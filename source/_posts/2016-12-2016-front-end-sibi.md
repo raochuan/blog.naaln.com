@@ -1,8 +1,8 @@
 ---
 title: 这会是 2016 年前端的年末撕逼吗？
 date: 2016-12-14 10:26:10
-categories: 
-- 技术
+categories:
+  - 产品
 tags: 
 - 前端
 ---

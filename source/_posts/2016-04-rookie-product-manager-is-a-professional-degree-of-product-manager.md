@@ -3,7 +3,7 @@ layout: post
 title: 菜鸟产品经理还是有专业度的产品经理
 date: 2016/04/22 00:52:00
 categories: 
-- 技术
+- 产品
 tags: 
 ---
 

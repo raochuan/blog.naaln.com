@@ -1,10 +1,9 @@
 ---
 title: 个人知识管理
 categories:
-  - 技术
+  - 产品
 date: 2017-04-18 12:01:29
 tags:
- - 产品经理
 ---
 
 ![](http://pics.naaln.com/blog/2019-01-14-032052.jpg)

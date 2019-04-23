@@ -1,8 +1,8 @@
 ---
 title: 2016年餐饮领域出现的变化和趋势
 date: 2016-12-16 11:51:09
-categories: 
-- 随笔
+categories:
+  - 产品
 tags: 
 - 知乎
 ---

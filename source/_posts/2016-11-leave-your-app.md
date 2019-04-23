@@ -1,8 +1,8 @@
 ---
 title: 张小龙说 "好的产品应该是用完即走的"
 date: 2016-11-03 17:05:33
-categories: 
-- 技术
+categories:
+  - 产品
 tags: 
 - 产品
 ---

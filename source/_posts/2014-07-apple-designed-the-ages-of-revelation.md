@@ -3,7 +3,7 @@ layout: post
 title: 苹果设计历代启示录
 date: 2014/07/27 10:27:39
 categories: 
-- 技术
+- 产品
 tags: 
 ---
 

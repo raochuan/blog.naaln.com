@@ -2,9 +2,8 @@
 title: 2016设计年鉴（三）
 date: 2016-12-29 22:51:09
 categories: 
-- 技术
+- 产品
 tags: 
-- 设计
 ---
 
 ![](http://pics.naaln.com/blog/2019-01-14-032327.jpg)
