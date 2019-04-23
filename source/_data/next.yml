@@ -92,8 +92,6 @@ deploy:
   bucket: naaln-blog
   operator:
   password:
-  endpoint: v0.api.upyun.com
-  secret: secret
   try_times: 5
   ignore_path_re:
     dir: null
@@ -494,7 +492,7 @@ reward_settings:
 reward:
   wechatpay: http://pics.naaln.com/48910e01gw1evkbf70jcgj20cg0cidh5.jpg
   alipay: http://pics.naaln.com/48910e01gw1evkbfendrjj20ci0ci0uf.jpg
-  bitcoin: 
+  # bitcoin: 
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
