@@ -264,7 +264,7 @@ bing_site_verification: DB220684085BEDBD2E49E8E942534B1F
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification: 4144ef291e4808d1a8fdfc8a833143ca
+# baidu_site_verification: 4144ef291e4808d1a8fdfc8a833143ca
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: true
@@ -870,7 +870,7 @@ needmoreshare2:
 # ---------------------------------------------------------------
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 4144ef291e4808d1a8fdfc8a833143ca
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at https://www.growingio.com
